@@ -1,0 +1,1 @@
+just add new movies to the csv files and use the JSON_creator.py
