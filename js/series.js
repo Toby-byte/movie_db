@@ -13,9 +13,19 @@ fetch('json/series.json').then(response => {
         const series = data.series
         // For each movie create a 'p' element and add it to the movie section in the HTML file
         series.forEach(serie => {
-            seriesElement = document.createElement('p');
+            seriesElement = document.createElement('h1');
             seriesElement.textContent = `${serie.title}`;
-            series_section.appendChild(seriesElement);
+            
+            seriesContainer = document.createElement('article');
+            seriesContainer.classList.add("seriesContainer");
+
+            seriesImg = document.createElement('img');
+            seriesImg.src = "poster.webp";
+
+            seriesContainer.appendChild(seriesImg);
+            seriesContainer.appendChild(seriesElement)
+            series_section.appendChild(seriesContainer);
+            
         });
 })
 // catch any errors that could occur, fecthing the movies from the json file

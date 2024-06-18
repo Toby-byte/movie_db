@@ -13,9 +13,18 @@ fetch('json/movies.json').then(response => {
         const movies = data.movies
         // For each movie create a 'p' element and add it to the movie section in the HTML file 
         movies.forEach(movie => {
-            movieElement = document.createElement('p');
+            movieElement = document.createElement('h1');
             movieElement.textContent = `${movie.title}`;
-            movie_section.appendChild(movieElement);
+            
+            movieContainer = document.createElement('article');
+            movieContainer.classList.add("movieContainer");
+            
+            movieImg = document.createElement('img');
+            movieImg.src = "poster.webp";
+            
+            movieContainer.appendChild(movieImg);
+            movieContainer.appendChild(movieElement);
+            movie_section.appendChild(movieContainer);
     });
 })
 // catch any errors that could occur, fecthing the movies from the json file
