@@ -3,6 +3,10 @@ h1 {
     justify-content: center;
 }
 
+img {
+    border-radius: 10px;
+}
+
 .movieContainer {
     background-color: rgb(233, 223, 204);
     height: 15rem;

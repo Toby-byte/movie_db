@@ -20,7 +20,7 @@ fetch('json/movies.json').then(response => {
             movieContainer.classList.add("movieContainer");
             
             movieImg = document.createElement('img');
-            movieImg.src = "poster.webp";
+            movieImg.src = `movie_pictures/${movie.title}.webp`;
             
             movieContainer.appendChild(movieImg);
             movieContainer.appendChild(movieElement);
