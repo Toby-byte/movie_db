@@ -136,7 +136,7 @@
             "title": "Det regner med frikadeller"
         },
         {
-            "title": "Hotel Transylvania"
+            "title": "Hotel Transylvania "
         },
         {
             "title": "Hotel Transylvania 2"
@@ -181,7 +181,7 @@
             "title": "Trillingerne fra Belleville"
         },
         {
-            "title": "Tintin (3D)"
+            "title": "Tintin Enhjørningens hemmelighed (3D)"
         },
         {
             "title": "Tintin og hajsøen"
@@ -208,7 +208,10 @@
             "title": "Asterix og kleopatra"
         },
         {
-            "title": "Asterix og obelix kleopatra"
+            "title": "Asterix & Obelix i kamp mod Cæsar"
+        },
+        {
+            "title": "Asterix & Obelix Mission Kleopatra"
         },
         {
             "title": "Peter pan"
@@ -268,10 +271,19 @@
             "title": "Pippi 3"
         },
         {
-            "title": "City-baby"
+            "title": "Pippi 4"
         },
         {
-            "title": "Edward scissorhands"
+            "title": "Pippi 5"
+        },
+        {
+            "title": "Pippi 6"
+        },
+        {
+            "title": "Cry baby"
+        },
+        {
+            "title": "Edward Saksehånd"
         },
         {
             "title": "Benny & joon"
@@ -280,7 +292,7 @@
             "title": "Hva så gilbert grape"
         },
         {
-            "title": "Don juan"
+            "title": "Don Juan DeMarco"
         },
         {
             "title": "Ed wood"
@@ -295,7 +307,7 @@
             "title": "Donnie brasco"
         },
         {
-            "title": "Fear of loathing"
+            "title": "Fear of loathing in las vegas"
         },
         {
             "title": "The ninth gate"
@@ -325,7 +337,7 @@
             "title": "The libertine"
         },
         {
-            "title": "Sweeny todd: the demon barber of Fleet Street"
+            "title": "Sweeny todd the demon barber of Fleet Street"
         },
         {
             "title": "Public enemies"
@@ -355,7 +367,28 @@
             "title": "Richard says goodbye"
         },
         {
+            "title": "Burlesque"
+        },
+        {
+            "title": "Click"
+        },
+        {
+            "title": "da Harry mødte sally"
+        },
+        {
+            "title": "Det indviklet"
+        },
+        {
+            "title": "The devil wears prada"
+        },
+        {
+            "title": "Droppet af sarah marshall"
+        },
+        {
             "title": "EasyA"
+        },
+        {
+            "title": "Et sikkert hit"
         },
         {
             "title": "En ny dag truer"
@@ -365,6 +398,9 @@
         },
         {
             "title": "Grease er ordet"
+        },
+        {
+            "title": "Grown ups"
         },
         {
             "title": "The holiday"
@@ -385,7 +421,13 @@
             "title": "My big fat greek wedding"
         },
         {
-            "title": "Nick & norahs infinite players"
+            "title": "Nick and Norahs Infinite Playlist"
+        },
+        {
+            "title": "No strings attached"
+        },
+        {
+            "title": "Norbit"
         },
         {
             "title": "Når du mindst venter det"
@@ -403,6 +445,9 @@
             "title": "Samme dag næste år"
         },
         {
+            "title": "Sex tape"
+        },
+        {
             "title": "St. Trinians lærernes skræk"
         },
         {
@@ -415,16 +460,10 @@
             "title": "27 bryllupper"
         },
         {
-            "title": "Austin powers 1"
-        },
-        {
-            "title": "Austin powers 2"
-        },
-        {
-            "title": "Austin powers 3"
-        },
-        {
             "title": "Big fish"
+        },
+        {
+            "title": "Big sick"
         },
         {
             "title": "The Big wedding"
@@ -439,70 +478,61 @@
             "title": "Bridesmaids"
         },
         {
-            "title": "Bridget Jones 1"
+            "title": "Bridget Jones dagbog"
         },
         {
-            "title": "Bridget Jones 2"
+            "title": "Bridget Jones På randen af fornuft"
         },
         {
-            "title": "Burlesque"
+            "title": "Bridget Jones Baby"
         },
         {
-            "title": "da Harry mødte sally"
+            "title": "Ant-man"
         },
         {
-            "title": "Det indviklet"
-        },
-        {
-            "title": "The devil wears prada"
-        },
-        {
-            "title": "Ant-man 1"
-        },
-        {
-            "title": "Ant-man 2"
+            "title": "Ant-Man and the Wasp"
         },
         {
             "title": "Avengers"
         },
         {
-            "title": "Avengers: age of ultron"
+            "title": "Avengers age of ultron"
         },
         {
-            "title": "Avengers: civil war"
+            "title": "Avengers civil war"
         },
         {
-            "title": "Avengers: Infinity War"
+            "title": "Avengers Infinity War"
         },
         {
-            "title": "Avengers: endgame"
+            "title": "Avengers endgame"
         },
         {
             "title": "Deadpool"
         },
         {
-            "title": "Doctor strange 1"
+            "title": "Doctor strange"
         },
         {
-            "title": "Doctor strange 2"
+            "title": "Doctor Strange in the Multiverse of Madness"
         },
         {
-            "title": "Ghost rider 1"
+            "title": "Ghost rider"
         },
         {
             "title": "Ghost rider 2"
         },
         {
-            "title": "Guardians of the galaxy 1"
+            "title": "Guardians of the galaxy"
         },
         {
-            "title": "Guardians of the galaxy 2"
+            "title": "Guardians of the galaxy Vol. 2"
         },
         {
-            "title": "Iron man: metal"
+            "title": "Iron man metal"
         },
         {
-            "title": "Iron man 1"
+            "title": "Iron man"
         },
         {
             "title": "Iron man 2"
@@ -554,6 +584,15 @@
         },
         {
             "title": "Bladerunner 2049"
+        },
+        {
+            "title": "Austin powers 1"
+        },
+        {
+            "title": "Austin powers 2"
+        },
+        {
+            "title": "Austin powers 3"
         },
         {
             "title": "The book of eli"
