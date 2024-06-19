@@ -11,20 +11,33 @@ fetch('json/movies.json').then(response => {
     // make a verialbe that contains the movies array from responce json file (movies.json)
     .then(data => {
         const movies = data.movies
-        // For each movie create a 'p' element and add it to the movie section in the HTML file 
+        // For each movie create a 'h1' element and add it to the movie section in the HTML file 
         movies.forEach(movie => {
-            movieElement = document.createElement('h1');
+            // Create the movie title element
+            const movieElement = document.createElement('h1');
             movieElement.textContent = `${movie.title}`;
+                        
+            // Create the big container for movie and heading
+            const BigContainerMovieAndHeading = document.createElement('article');
+            BigContainerMovieAndHeading.classList.add("BigContainerMovieAndHeading");
             
-            movieContainer = document.createElement('article');
+            // Create the container for the movie image
+            const movieContainer = document.createElement('article');
             movieContainer.classList.add("movieContainer");
             
-            movieImg = document.createElement('img');
+            // Create the image element
+            const movieImg = document.createElement('img');
             movieImg.src = `movie_pictures/${movie.title}.webp`;
             
+            // Append the image to the movie container
             movieContainer.appendChild(movieImg);
-            movieContainer.appendChild(movieElement);
-            movie_section.appendChild(movieContainer);
+
+            // Append the movie container and title element to the big container
+            BigContainerMovieAndHeading.appendChild(movieContainer);
+            BigContainerMovieAndHeading.appendChild(movieElement);
+
+            // Append the big container to the movie section
+            movie_section.appendChild(BigContainerMovieAndHeading);
     });
 })
 // catch any errors that could occur, fecthing the movies from the json file
