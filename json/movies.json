@@ -433,9 +433,6 @@
             "title": "Når du mindst venter det"
         },
         {
-            "title": "One true thing"
-        },
-        {
             "title": "Parterapi I paradis"
         },
         {
@@ -583,16 +580,10 @@
             "title": "X-men the last stand"
         },
         {
+            "title": "X-men First Class"
+        },
+        {
             "title": "Bladerunner 2049"
-        },
-        {
-            "title": "Austin powers 1"
-        },
-        {
-            "title": "Austin powers 2"
-        },
-        {
-            "title": "Austin powers 3"
         },
         {
             "title": "The book of eli"
@@ -604,7 +595,7 @@
             "title": "Chappie"
         },
         {
-            "title": "Django: unchained"
+            "title": "Django unchained"
         },
         {
             "title": "Edge of tomorrow"
@@ -622,19 +613,34 @@
             "title": "Interstellar"
         },
         {
+            "title": "The Martian"
+        },
+        {
+            "title": "Men In Black"
+        },
+        {
+            "title": "Men In Black 2"
+        },
+        {
+            "title": "Men In Black 3"
+        },
+        {
+            "title": "Men in Black International"
+        },
+        {
             "title": "Real steel"
         },
         {
             "title": "Taken"
         },
         {
+            "title": "Watchmen"
+        },
+        {
             "title": "Zombieland"
         },
         {
             "title": "Awake"
-        },
-        {
-            "title": "The bourne identity"
         },
         {
             "title": "District 9"
@@ -667,13 +673,22 @@
             "title": "Hellboy"
         },
         {
+            "title": "Drink from me and live forever"
+        },
+        {
             "title": "King kong"
         },
         {
-            "title": "Marilyn"
+            "title": "Kingsman The Secret Service"
+        },
+        {
+            "title": "My Week with Marilyn"
         },
         {
             "title": "Ninja assassin"
+        },
+        {
+            "title": "One true thing"
         },
         {
             "title": "Pulp fiction"
@@ -691,7 +706,7 @@
             "title": "War of the worlds"
         },
         {
-            "title": "Arrietty's hemmelige verden"
+            "title": "Arriettys hemmelige verden"
         },
         {
             "title": "Chihiro og heksene"
@@ -727,7 +742,7 @@
             "title": "My neighbors the yamadas"
         },
         {
-            "title": "Nausicaä"
+            "title": "Nausicaä of the Valley of the Wind"
         },
         {
             "title": "Når vinden rejser sig"
@@ -736,7 +751,7 @@
             "title": "Oppe på valmuebakken"
         },
         {
-            "title": "Ponyo"
+            "title": "Ponyo på klippen ved havet"
         },
         {
             "title": "A silent voice"
@@ -751,13 +766,109 @@
             "title": "Doukyuusei"
         },
         {
-            "title": "Ghost in the shell"
+            "title": "Austin powers"
         },
         {
-            "title": "Ghost in the shell innocence"
+            "title": "Austin Powers The Spy Who Shagged Me"
         },
         {
-            "title": "The girl who leapt through time"
+            "title": "Austin Powers Goldmember"
+        },
+        {
+            "title": "Back to the future"
+        },
+        {
+            "title": "Back to the future part 2"
+        },
+        {
+            "title": "Back to the future part 3"
+        },
+        {
+            "title": "Batman begins"
+        },
+        {
+            "title": "Batman the dark knight"
+        },
+        {
+            "title": "Batman the dark knight rises"
+        },
+        {
+            "title": "Beautiful creatures"
+        },
+        {
+            "title": "The bourne identity"
+        },
+        {
+            "title": "Charlie's angels"
+        },
+        {
+            "title": "Charlie's angels uden hæmninger"
+        },
+        {
+            "title": "Det gyldne kompas"
+        },
+        {
+            "title": "Divergent insurgent"
+        },
+        {
+            "title": "Insurgent"
+        },
+        {
+            "title": "Harry potter og de vises sten"
+        },
+        {
+            "title": "Harry potter og hemmelighedernes kammer"
+        },
+        {
+            "title": "Harry potter og fangen fra azkaban"
+        },
+        {
+            "title": "Harry potter og flammernes pokal"
+        },
+        {
+            "title": "Harry potter og fønixordenen"
+        },
+        {
+            "title": "Harry potter og dødsregalierne del 1"
+        },
+        {
+            "title": "Harry potter og dødsregalierne del 2"
+        },
+        {
+            "title": "The Hunger Games"
+        },
+        {
+            "title": "The Hunger Games Catching Fire"
+        },
+        {
+            "title": "The Hunger Games Mockingjay - del 1"
+        },
+        {
+            "title": "The Hunger Games Mockingjay - del 2"
+        },
+        {
+            "title": "John Wick"
+        },
+        {
+            "title": "John Wick chapter 2"
+        },
+        {
+            "title": "John Wick chapter 3 Parabellum"
+        },
+        {
+            "title": "John Wick chapter 4"
+        },
+        {
+            "title": "The Matrix"
+        },
+        {
+            "title": "Matrix reloaded"
+        },
+        {
+            "title": "Matrix revolution"
+        },
+        {
+            "title": "Animatrix"
         },
         {
             "title": "Naruto Ninja clash in the land of snow"
@@ -778,10 +889,19 @@
             "title": "Naruto shippuden the will of fire"
         },
         {
-            "title": "Road to ninja"
+            "title": "Naruto Road to ninja"
         },
         {
             "title": "The last naruto the movie"
+        },
+        {
+            "title": "Ghost in the shell"
+        },
+        {
+            "title": "Ghost in the Shell 2 Innocence"
+        },
+        {
+            "title": "The girl who leapt through time"
         },
         {
             "title": "Evangelion 3.33"
@@ -799,84 +919,6 @@
             "title": "Wolf children"
         },
         {
-            "title": "Back to the future"
-        },
-        {
-            "title": "Back to the future 2"
-        },
-        {
-            "title": "Back to the future 3"
-        },
-        {
-            "title": "Batman begins"
-        },
-        {
-            "title": "Batman the dark knight"
-        },
-        {
-            "title": "Batman the dark knight rises"
-        },
-        {
-            "title": "Beautiful creatures"
-        },
-        {
-            "title": "Charlie's angels"
-        },
-        {
-            "title": "Charlie's angels uden hæmninger"
-        },
-        {
-            "title": "Det gyldne kompas"
-        },
-        {
-            "title": "Divergent insurgent"
-        },
-        {
-            "title": "Harry potter og de vises sten"
-        },
-        {
-            "title": "Harry potter og hemmelighedernes kammer"
-        },
-        {
-            "title": "Harry potter og fangen fra azkaban"
-        },
-        {
-            "title": "Harry potter og flammernes pokal"
-        },
-        {
-            "title": "Harry potter og fønixordenen"
-        },
-        {
-            "title": "Harry potter og dødsregalierne part 1"
-        },
-        {
-            "title": "Harry potter og dødsregalierne part 2"
-        },
-        {
-            "title": "John Wick"
-        },
-        {
-            "title": "John Wick 2"
-        },
-        {
-            "title": "John Wick 3"
-        },
-        {
-            "title": "John Wick 4"
-        },
-        {
-            "title": "Matrix"
-        },
-        {
-            "title": "Matrix reloaded"
-        },
-        {
-            "title": "Matrix revolution"
-        },
-        {
-            "title": "Animatrix"
-        },
-        {
             "title": "The maze runner"
         },
         {
@@ -886,61 +928,61 @@
             "title": "Mumien"
         },
         {
-            "title": "Mumien 2"
+            "title": "The Mummy Returns"
         },
         {
-            "title": "Pirates of the Caribbean"
+            "title": "Pirates of the Caribbean Den Sorte Forbandelse"
         },
         {
-            "title": "Pirates of the Caribbean 2"
+            "title": "Pirates of the Caribbean Død Mands Kiste"
         },
         {
-            "title": "Pirates of the Caribbean 3"
+            "title": "Pirates of the Caribbean Ved Verdens Ende"
         },
         {
             "title": "Skammerens datter"
         },
         {
-            "title": "Star wars 1"
+            "title": "Star Wars Episode 1 The Phantom Menace"
         },
         {
-            "title": "Star wars 2"
+            "title": "Star Wars Episode 2 Attack of the Clones"
         },
         {
-            "title": "Star wars 3"
+            "title": "Star Wars Episode 3 Revenge of the Sith"
         },
         {
-            "title": "Star wars 4"
+            "title": "Star Wars Episode 4 A new hope"
         },
         {
-            "title": "Star wars 5"
+            "title": "Star Wars Episode 5 The Empire Strikes Back"
         },
         {
-            "title": "Star wars 6"
+            "title": "Star Wars Episode 6 Return of the Jedi"
         },
         {
             "title": "Transformers"
         },
         {
-            "title": "Transformers 2"
+            "title": "Transformers revenge of the fallen"
         },
         {
-            "title": "Transformers 3"
+            "title": "Transformers dark of the moon"
         },
         {
             "title": "Twilight"
         },
         {
-            "title": "New moon"
+            "title": "The Twilight Saga New Moon"
         },
         {
-            "title": "Eclipse"
+            "title": "The Twilight Saga Eclipse"
         },
         {
-            "title": "Breaking dawn part 1"
+            "title": "The Twilight Saga Breaking Dawn del 1"
         },
         {
-            "title": "Breaking dawn part 2"
+            "title": "The Twilight Saga Breaking Dawn del 2"
         },
         {
             "title": "Olsen banden"
