@@ -18,15 +18,33 @@ img {
 .Container {
     background-color: rgb(233, 223, 204);
     height: 15rem;
-    /* width: 28%; */
-    width: 28%;
     padding: 1rem;
     margin: 0.5rem;
     border-radius: 20px;
     display: flex;
+    justify-content: center;
 }
 
 .section {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 976px) {
+    .BigContainerAndHeading {
+        width: 26.5%;
+    }
+}
+
+@media only screen and (max-width: 718px) {
+    .BigContainerAndHeading {
+        width: 39%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .BigContainerAndHeading {
+        width: 100%;
+    }
 }
