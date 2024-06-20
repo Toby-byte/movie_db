@@ -7,7 +7,7 @@ img {
     border-radius: 10px;
 }
 
-.BigContainerSeriesAndHeading {
+.BigContainerAndHeading {
     background-color: rgb(233, 223, 204);
     padding: 1rem;
     margin: 0.5rem;
@@ -15,17 +15,18 @@ img {
     width: 20%;
 }
 
-.seriesContainer {
+.Container {
     background-color: rgb(233, 223, 204);
     height: 15rem;
     /* width: 28%; */
+    width: 28%;
     padding: 1rem;
     margin: 0.5rem;
     border-radius: 20px;
     display: flex;
 }
 
-.series_section {
+.section {
     display: flex;
     flex-wrap: wrap;
 }

@@ -1,4 +1,4 @@
-series_section = document.getElementById('series_section');
+series_section = document.getElementById('section');
 
 fetch('json/series.json').then(response => {
     // Check if error is network related
@@ -19,11 +19,11 @@ fetch('json/series.json').then(response => {
 
             // Create the big container for series and heading
             const BigContainerSeriesAndHeading = document.createElement('article');
-            BigContainerSeriesAndHeading.classList.add("BigContainerSeriesAndHeading");
+            BigContainerSeriesAndHeading.classList.add("BigContainerAndHeading");
             
             // Create the container for the series image
             const seriesContainer = document.createElement('article');
-            seriesContainer.classList.add("seriesContainer");
+            seriesContainer.classList.add("Container");
 
             // Create the image element
             const seriesImg = document.createElement('img');

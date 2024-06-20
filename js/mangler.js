@@ -1,4 +1,4 @@
-movie_section = document.getElementById('mangler_section');
+movie_section = document.getElementById('section');
 
 fetch('json/mangler.json').then(response => {
     // Check if error is network related
@@ -19,11 +19,11 @@ fetch('json/mangler.json').then(response => {
                         
             // Create the big container for movie and heading
             const BigContainerMovieAndHeading = document.createElement('article');
-            BigContainerMovieAndHeading.classList.add("BigContainerMovieAndHeading");
+            BigContainerMovieAndHeading.classList.add("BigContainerAndHeading");
             
             // Create the container for the movie image
             const movieContainer = document.createElement('article');
-            movieContainer.classList.add("movieContainer");
+            movieContainer.classList.add("Container");
             
             // Create the image element
             const movieImg = document.createElement('img');
