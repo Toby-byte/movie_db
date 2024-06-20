@@ -136,7 +136,7 @@
             "title": "Det regner med frikadeller"
         },
         {
-            "title": "Hotel Transylvania "
+            "title": "Hotel Transylvania"
         },
         {
             "title": "Hotel Transylvania 2"
@@ -278,6 +278,57 @@
         },
         {
             "title": "Pippi 6"
+        },
+        {
+            "title": "Toy story"
+        },
+        {
+            "title": "Toy story 2"
+        },
+        {
+            "title": "Toy story 3"
+        },
+        {
+            "title": "Monsters inc"
+        },
+        {
+            "title": "Monsters University"
+        },
+        {
+            "title": "A bugs life"
+        },
+        {
+            "title": "Ratatouille"
+        },
+        {
+            "title": "Cars"
+        },
+        {
+            "title": "Cars 2"
+        },
+        {
+            "title": "Wall-E"
+        },
+        {
+            "title": "The Incredibles"
+        },
+        {
+            "title": "Up"
+        },
+        {
+            "title": "Brave"
+        },
+        {
+            "title": "The good dinosaur"
+        },
+        {
+            "title": "Inside out"
+        },
+        {
+            "title": "Finding nemo"
+        },
+        {
+            "title": "Finding dory"
         },
         {
             "title": "Cry baby"
@@ -988,94 +1039,43 @@
             "title": "Olsen banden"
         },
         {
-            "title": "Olsen banden: på spanden"
+            "title": "Olsen banden på spanden"
         },
         {
-            "title": "Olsen banden: i Jylland"
+            "title": "Olsen banden i Jylland"
         },
         {
-            "title": "Olsen banden: store kup"
+            "title": "Olsen bandens store kup"
         },
         {
-            "title": "Olsen banden: går amok"
+            "title": "Olsen banden går amok"
         },
         {
-            "title": "Olsen banden: sidste bedrifter"
+            "title": "Olsen bandens sidste bedrifter"
         },
         {
-            "title": "Olsen banden: på sporet"
+            "title": "Olsen banden på sporet"
         },
         {
-            "title": "Olsen banden: ser rødt"
+            "title": "Olsen banden ser rødt"
         },
         {
-            "title": "Olsen banden: deruda"
+            "title": "Olsen banden deruda"
         },
         {
-            "title": "Olsen banden: går i krig"
+            "title": "Olsen banden går i krig"
         },
         {
-            "title": "Olsen banden: overgiver sig aldrig"
+            "title": "Olsen banden overgiver sig aldrig"
         },
         {
-            "title": "Olsen banden: flugt over plankeværket"
+            "title": "Olsen bandens flugt over plankeværket"
         },
         {
-            "title": "Olsen banden: over alle bjerge"
+            "title": "Olsen banden over alle bjerge"
         },
         {
-            "title": "Olsen banden: sidste stik"
-        },
-        {
-            "title": "Toy story 1"
-        },
-        {
-            "title": "Toy story 2"
-        },
-        {
-            "title": "Toy story 3"
-        },
-        {
-            "title": "Monsters inc"
-        },
-        {
-            "title": "Monsters University"
-        },
-        {
-            "title": "A bug's life"
-        },
-        {
-            "title": "Ratatouille"
-        },
-        {
-            "title": "Cars 1"
-        },
-        {
-            "title": "Cars 2"
-        },
-        {
-            "title": "Wall-e"
-        },
-        {
-            "title": "The Incredibles"
-        },
-        {
-            "title": "Up"
-        },
-        {
-            "title": "Brave"
-        },
-        {
-            "title": "The good dinosaur"
-        },
-        {
-            "title": "Inside out"
-        },
-        {
-            "title": "Finding nemo"
-        },
-        {
-            "title": "Finding dory"
+            "title": "Olsen bandens sidste stik"
         },
         {
             "title": "Alt på et bræt"
@@ -1099,7 +1099,7 @@
             "title": "Familien gyldenkål"
         },
         {
-            "title": "Familien gyldenkål: sprænger banken"
+            "title": "Familien gyldenkål sprænger banken"
         },
         {
             "title": "Flådens friske fyrer"
@@ -1111,26 +1111,25 @@
             "title": "Sømænd og svigermødre"
         },
         {
-            "title": "Han",
-            "null": [
-                " hun",
-                " dirch og dario"
-            ]
+            "title": "Han hun dirch og dario"
         },
         {
             "title": "Midt om natten"
         },
         {
-            "title": "Min søsters børn 1"
+            "title": "Martha"
         },
         {
-            "title": "Min søsters børn 2"
+            "title": "Min søsters børn"
         },
         {
-            "title": "Min søsters børn 3"
+            "title": "Min søsters børn på bryllupsrejse"
         },
         {
-            "title": "Min søsters børn 4"
+            "title": "Min søsters børn vælter byen"
+        },
+        {
+            "title": "Min søsters børn når de er værst"
         },
         {
             "title": "Peters baby"

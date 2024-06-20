@@ -4,10 +4,10 @@
             "title": "Cirkeline"
         },
         {
-            "title": "Friends"
+            "title": "Friends complete series"
         },
         {
-            "title": "House"
+            "title": "House complete series"
         },
         {
             "title": "Huset på Christianshavn"
@@ -22,7 +22,10 @@
             "title": "Pagten"
         },
         {
-            "title": "Rita 1 og sidste sæson"
+            "title": "Rita 1 sæson"
+        },
+        {
+            "title": "Rita sidste sæson"
         },
         {
             "title": "Accel world"
@@ -31,10 +34,34 @@
             "title": "Assassination classroom"
         },
         {
+            "title": "Ancient magus bride sæson 1"
+        },
+        {
             "title": "Death note"
         },
         {
-            "title": "Naruto 1-6"
+            "title": "Emma A Victorian Romance"
+        },
+        {
+            "title": "Emma A Victorian Romance sæson 2"
+        },
+        {
+            "title": "Naruto complete series 1"
+        },
+        {
+            "title": "Naruto complete series 2"
+        },
+        {
+            "title": "Naruto complete series 3"
+        },
+        {
+            "title": "Naruto complete series 4"
+        },
+        {
+            "title": "Naruto complete series 5"
+        },
+        {
+            "title": "Naruto complete series 6"
         },
         {
             "title": "Neon genesis Evangelion"
@@ -44,6 +71,18 @@
         },
         {
             "title": "Noragami aragoto"
+        },
+        {
+            "title": "Nye Eventyr Med Lucky Luke dvd 1-8"
+        },
+        {
+            "title": "Nye Eventyr Med Lucky Luke dvd 9-15"
+        },
+        {
+            "title": "Spiderman And His Amazing Friends"
+        },
+        {
+            "title": "X-men Sæson 1 vol. 1"
         }
     ]
 }
