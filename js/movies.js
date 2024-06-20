@@ -42,13 +42,6 @@ function displayMovies(movies) {
         // Create the movie title element
         const movieElement = document.createElement('h1');
         movieElement.textContent = `${movie.title}`;
-        // Pointer makes the html element look like it can be clicked 
-        movieElement.style.cursor = 'pointer';
-        // i add an eventlistener and then redirects me to another page with query parameters
-        // these are encoded using the encodeURIComponent so it can be used as parameter in the url
-        movieElement.addEventListener('click', () => {
-            window.location.href = `movie_or_series_detail.html?title=${encodeURIComponent(movie.title)}&image=${encodeURIComponent(`movie_pictures/${movie.title}.webp`)}`;
-        });
                     
         // Create the big container for movie and heading
         const BigContainerMovieAndHeading = document.createElement('article');
@@ -61,6 +54,14 @@ function displayMovies(movies) {
         // Create the image element
         const movieImg = document.createElement('img');
         movieImg.src = `movie_pictures/${movie.title}.webp`;
+
+        // Pointer makes the html element look like it can be clicked 
+        movieImg.style.cursor = 'pointer';
+        // i add an eventlistener and then redirects me to another page with query parameters
+        // these are encoded using the encodeURIComponent so it can be used as parameter in the url
+        movieImg.addEventListener('click', () => {
+            window.location.href = `movie_or_series_detail.html?title=${encodeURIComponent(movie.title)}&image=${encodeURIComponent(`movie_pictures/${movie.title}.webp`)}`;
+        });
         
         // Append the image to the movie container
         movieContainer.appendChild(movieImg);
