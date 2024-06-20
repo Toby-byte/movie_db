@@ -6,5 +6,9 @@ todo: fix series js and css so it matches movies (done)
 
 todo: put the website on github pages
 
+todo: mabye add search for mangler? if you do so just copy what i did on the other pages
+
+todo: pixar film ændres til dansk
+
 use the movie database api to get discriptions for movies and more
 url: https://www.themoviedb.org/ 
