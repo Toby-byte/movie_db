@@ -47,7 +47,7 @@ function displayMovies(movies) {
         // i add an eventlistener and then redirects me to another page with query parameters
         // these are encoded using the encodeURIComponent so it can be used as parameter in the url
         movieElement.addEventListener('click', () => {
-            window.location.href = `movie_detail.html?title=${encodeURIComponent(movie.title)}&image=${encodeURIComponent(`movie_pictures/${movie.title}.webp`)}`;
+            window.location.href = `movie_or_series_detail.html?title=${encodeURIComponent(movie.title)}&image=${encodeURIComponent(`movie_pictures/${movie.title}.webp`)}`;
         });
                     
         // Create the big container for movie and heading

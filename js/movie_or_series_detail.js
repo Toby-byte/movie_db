@@ -7,8 +7,8 @@ const image = parameters.image;
 
 // Sets the HTML elements to the title and image of the movie
 if (image && title) {
-    document.getElementById("movie-title").textContent = title;
-    document.getElementById("movie-image").src = image;
+    document.getElementById("title").textContent = title;
+    document.getElementById("image").src = image;
 } else {
     document.body.textContent("Error: Movie title or image not found")
 }

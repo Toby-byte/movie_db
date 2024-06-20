@@ -45,7 +45,7 @@ function displaySeries(series) {
         // i add an eventlistener and then redirects me to another page with query parameters
         // these are encoded using the encodeURIComponent so it can be used as parameter in the url
         seriesElement.addEventListener('click', () => {
-            window.location.href = `movie_detail.html?title=${encodeURIComponent(serie.title)}&image=${encodeURIComponent(`series_pictures/${serie.title}.webp`)}`;
+            window.location.href = `movie_or_series_detail.html?title=${encodeURIComponent(serie.title)}&image=${encodeURIComponent(`series_pictures/${serie.title}.webp`)}`;
         });
         // Create the big container for series and heading
         const BigContainerSeriesAndHeading = document.createElement('article');

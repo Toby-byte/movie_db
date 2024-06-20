@@ -22,7 +22,7 @@ fetch('json/mangler.json').then(response => {
             // i add an eventlistener and then redirects me to another page with query parameters
             // these are encoded using the encodeURIComponent so it can be used as parameter in the url
             movieElement.addEventListener('click', () => {
-            window.location.href = `movie_detail.html?title=${encodeURIComponent(mangler.title)}&image=${encodeURIComponent(`missing_movies_and_series/${mangler.title}.webp`)}`;
+            window.location.href = `movie_or_series_detail.html?title=${encodeURIComponent(mangler.title)}&image=${encodeURIComponent(`missing_movies_and_series/${mangler.title}.webp`)}`;
             });
                         
             // Create the big container for movie and heading
