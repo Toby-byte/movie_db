@@ -1,5 +1,6 @@
 const movie_section = document.getElementById('section');
 const searchBar = document.getElementById('searchBar');
+const selectCategory = document.getElementById('category');
 
 fetch('json/movies.json').then(response => {
     // Check if error is network related
@@ -23,6 +24,17 @@ fetch('json/movies.json').then(response => {
             const filteredMovies = movies.filter(movie => movie.title.toLowerCase().includes(searchText));
             // the displayMovies is used to show the movies that includes the searchtext
             displayMovies(filteredMovies); 
+        });
+
+        selectCategory.addEventListener('change', (event) => {
+            const categoryValue = event.target.value;
+
+            if (categoryValue === "") {
+                displayMovies(movies);
+            } else {
+                const filteredCategories = movies.filter(movie => movie.categories && movie.categories.includes(categoryValue));
+                displayMovies(filteredCategories);
+            }
         });
 })
 // catch any errors that could occur, fecthing the movies from the json file

@@ -1,5 +1,6 @@
 const series_section = document.getElementById('section');
 const searchBar = document.getElementById('searchBar');
+const selectCategory = document.getElementById('category');
 
 fetch('json/series.json').then(response => {
     // Check if error is network related
@@ -23,6 +24,17 @@ fetch('json/series.json').then(response => {
         const filteredSeries = series.filter(serie => serie.title.toLowerCase().includes(searchText));
         // The displaySeries is used to show the series that includes the searchText
         displaySeries(filteredSeries); 
+    });
+
+    selectCategory.addEventListener('change', (event) => {
+        const categoryValue = event.target.value;
+
+        if (categoryValue === "") {
+            displaySeries(series)
+        } else {
+            const filteredCategories = series.filter(serie => serie.categories && serie.categories.includes(categoryValue));
+            displaySeries(filteredCategories);
+        }
     });
 })
 // Catch any errors that could occur while fetching the series from the JSON file

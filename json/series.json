@@ -1,91 +1,185 @@
 {
     "series": [
         {
-            "title": "Cirkeline"
+            "title": "Cirkeline",
+            "categories": [
+                "Børn",
+                "Dansk"
+            ]
         },
         {
-            "title": "Friends complete series"
+            "title": "Friends complete series",
+            "categories": [
+                "Komedie"
+            ]
         },
         {
-            "title": "House complete series"
+            "title": "House complete series",
+            "categories": [
+                "Drama",
+                "Komedie"
+            ]
         },
         {
-            "title": "Huset på Christianshavn"
+            "title": "Huset på Christianshavn",
+            "categories": [
+                "Dansk",
+                "Komedie"
+            ]
         },
         {
-            "title": "Matador"
+            "title": "Matador",
+            "categories": [
+                "Dansk"
+            ]
         },
         {
-            "title": "Absalons hemmelighed"
+            "title": "Absalons hemmelighed",
+            "categories": [
+                "Børn",
+                "Dansk"
+            ]
         },
         {
-            "title": "Pagten"
+            "title": "Pagten",
+            "categories": [
+                "Børn",
+                "Dansk"
+            ]
         },
         {
-            "title": "Rita 1 sæson"
+            "title": "Rita 1 sæson",
+            "categories": [
+                "Dansk",
+                "Drama"
+            ]
         },
         {
-            "title": "Rita sidste sæson"
+            "title": "Rita sidste sæson",
+            "categories": [
+                "Dansk",
+                "Drama"
+            ]
         },
         {
-            "title": "Accel world"
+            "title": "Accel world",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Assassination classroom"
+            "title": "Assassination classroom",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Ancient magus bride sæson 1"
+            "title": "Ancient magus bride sæson 1",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Death note"
+            "title": "Death note",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Emma A Victorian Romance"
+            "title": "Emma A Victorian Romance",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Emma A Victorian Romance sæson 2"
+            "title": "Emma A Victorian Romance sæson 2",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Naruto complete series 1"
+            "title": "Naruto complete series 1",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Naruto complete series 2"
+            "title": "Naruto complete series 2",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Naruto complete series 3"
+            "title": "Naruto complete series 3",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Naruto complete series 4"
+            "title": "Naruto complete series 4",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Naruto complete series 5"
+            "title": "Naruto complete series 5",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Naruto complete series 6"
+            "title": "Naruto complete series 6",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Neon genesis Evangelion"
+            "title": "Neon genesis Evangelion",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Noragami"
+            "title": "Noragami",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Noragami aragoto"
+            "title": "Noragami aragoto",
+            "categories": [
+                "Anime"
+            ]
         },
         {
-            "title": "Nye Eventyr Med Lucky Luke dvd 1-8"
+            "title": "Nye Eventyr Med Lucky Luke dvd 1-8",
+            "categories": [
+                "Børn"
+            ]
         },
         {
-            "title": "Nye Eventyr Med Lucky Luke dvd 9-15"
+            "title": "Nye Eventyr Med Lucky Luke dvd 9-15",
+            "categories": [
+                "Børn"
+            ]
         },
         {
-            "title": "Spiderman And His Amazing Friends"
+            "title": "Spiderman And His Amazing Friends",
+            "categories": [
+                "Børn"
+            ]
         },
         {
-            "title": "Tintin"
+            "title": "Tintin",
+            "categories": [
+                "Børn"
+            ]
         },
         {
-            "title": "X-men Sæson 1 vol. 1"
+            "title": "X-men Sæson 1 vol. 1",
+            "categories": [
+                "Børn"
+            ]
         }
     ]
 }
