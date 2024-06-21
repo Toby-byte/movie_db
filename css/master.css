@@ -3,8 +3,36 @@ h1, p {
     justify-content: center;
 }
 
+ul {
+    list-style: none;
+    display: flex;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
 img {
     border-radius: 10px;
+}
+
+.nav-button {
+    padding: 0.5rem;
+    margin: 0 0.5rem 0 0.5rem;
+    background-color: brown;
+    border-radius: 10px;
+}
+
+.search_section {
+    display: flex;
+    justify-content: center;
 }
 
 .BigContainerAndHeading {
@@ -38,13 +66,31 @@ img {
 }
 
 @media only screen and (max-width: 718px) {
+    ul {
+        padding: 0;
+    }
+
+    .nav-button {
+        margin: 0.5rem;
+    }
+    
     .BigContainerAndHeading {
         width: 39%;
     }
 }
 
 @media only screen and (max-width: 500px) {
+    ul {
+        padding: 0;
+        flex-direction: column;
+    }
+
+    .nav-button {
+        margin: 0.5rem;
+    }
+    
     .BigContainerAndHeading {
         width: 100%;
     }
+
 }
