@@ -1,4 +1,4 @@
-h1 {
+h1, p {
     display: flex;
     justify-content: center;
 }

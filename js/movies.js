@@ -15,7 +15,7 @@ fetch('json/movies.json').then(response => {
         const movies = data.movies
         displayMovies(movies);
 
-        // adds a eventlistener to the search bar the fires, when the value of the input field changes
+        // adds a eventlistener to the search bar it fires, when the value of the input field changes
         searchBar.addEventListener('input', (event) => {
             // when the event happens it takes the input from the searchbar 
             // and converts the input to lowercase
@@ -25,13 +25,17 @@ fetch('json/movies.json').then(response => {
             // the displayMovies is used to show the movies that includes the searchtext
             displayMovies(filteredMovies); 
         });
-
+        // adds a eventlistener to the select category button it fires, when the category value changes
         selectCategory.addEventListener('change', (event) => {
+            // when the event happens it takes the input from the select category button
             const categoryValue = event.target.value;
-
+            
+            // if no category is selected show all movies
             if (categoryValue === "") {
                 displayMovies(movies);
             } else {
+                // For each movie in the movies array, it checks if the movie.categories includes the category value.
+                // this part "movie.categories &&" insures that the movie category is not null before calling includes  
                 const filteredCategories = movies.filter(movie => movie.categories && movie.categories.includes(categoryValue));
                 displayMovies(filteredCategories);
             }
@@ -54,6 +58,10 @@ function displayMovies(movies) {
         // Create the movie title element
         const movieElement = document.createElement('h1');
         movieElement.textContent = `${movie.title}`;
+
+        // Create movie id element
+        const movieIDElement = document.createElement('p');
+        movieIDElement.textContent =  `Film nr.${movie.id}`;
                     
         // Create the big container for movie and heading
         const BigContainerMovieAndHeading = document.createElement('article');
@@ -81,6 +89,7 @@ function displayMovies(movies) {
         // Append the movie container and title element to the big container
         BigContainerMovieAndHeading.appendChild(movieContainer);
         BigContainerMovieAndHeading.appendChild(movieElement);
+        BigContainerMovieAndHeading.appendChild(movieIDElement);
 
         // Append the big container to the movie section
         movie_section.appendChild(BigContainerMovieAndHeading);

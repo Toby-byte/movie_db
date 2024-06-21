@@ -1,6 +1,7 @@
 {
     "series": [
         {
+            "id": 1,
             "title": "Cirkeline",
             "categories": [
                 "Børn",
@@ -8,12 +9,14 @@
             ]
         },
         {
+            "id": 2,
             "title": "Friends complete series",
             "categories": [
                 "Komedie"
             ]
         },
         {
+            "id": 3,
             "title": "House complete series",
             "categories": [
                 "Drama",
@@ -21,6 +24,7 @@
             ]
         },
         {
+            "id": 4,
             "title": "Huset på Christianshavn",
             "categories": [
                 "Dansk",
@@ -28,12 +32,14 @@
             ]
         },
         {
+            "id": 5,
             "title": "Matador",
             "categories": [
                 "Dansk"
             ]
         },
         {
+            "id": 6,
             "title": "Absalons hemmelighed",
             "categories": [
                 "Børn",
@@ -41,6 +47,7 @@
             ]
         },
         {
+            "id": 7,
             "title": "Pagten",
             "categories": [
                 "Børn",
@@ -48,6 +55,7 @@
             ]
         },
         {
+            "id": 8,
             "title": "Rita 1 sæson",
             "categories": [
                 "Dansk",
@@ -55,6 +63,7 @@
             ]
         },
         {
+            "id": 9,
             "title": "Rita sidste sæson",
             "categories": [
                 "Dansk",
@@ -62,120 +71,140 @@
             ]
         },
         {
+            "id": 10,
             "title": "Accel world",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 11,
             "title": "Assassination classroom",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 12,
             "title": "Ancient magus bride sæson 1",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 13,
             "title": "Death note",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 14,
             "title": "Emma A Victorian Romance",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 15,
             "title": "Emma A Victorian Romance sæson 2",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 16,
             "title": "Naruto complete series 1",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 17,
             "title": "Naruto complete series 2",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 18,
             "title": "Naruto complete series 3",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 19,
             "title": "Naruto complete series 4",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 20,
             "title": "Naruto complete series 5",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 21,
             "title": "Naruto complete series 6",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 22,
             "title": "Neon genesis Evangelion",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 23,
             "title": "Noragami",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 24,
             "title": "Noragami aragoto",
             "categories": [
                 "Anime"
             ]
         },
         {
+            "id": 25,
             "title": "Nye Eventyr Med Lucky Luke dvd 1-8",
             "categories": [
                 "Børn"
             ]
         },
         {
+            "id": 26,
             "title": "Nye Eventyr Med Lucky Luke dvd 9-15",
             "categories": [
                 "Børn"
             ]
         },
         {
+            "id": 27,
             "title": "Spiderman And His Amazing Friends",
             "categories": [
                 "Børn"
             ]
         },
         {
+            "id": 28,
             "title": "Tintin",
             "categories": [
                 "Børn"
             ]
         },
         {
+            "id": 29,
             "title": "X-men Sæson 1 vol. 1",
             "categories": [
                 "Børn"

@@ -52,6 +52,9 @@ function displaySeries(series) {
         // Create the series title element
         const seriesElement = document.createElement('h1');
         seriesElement.textContent = `${serie.title}`;
+
+        const serieIDElement = document.createElement('p');
+        serieIDElement.textContent = `Serie nr.${serie.id}`;
         
         // Create the big container for series and heading
         const BigContainerSeriesAndHeading = document.createElement('article');
@@ -79,6 +82,7 @@ function displaySeries(series) {
         // Append the series container and title element to the big container
         BigContainerSeriesAndHeading.appendChild(seriesContainer);
         BigContainerSeriesAndHeading.appendChild(seriesElement);
+        BigContainerSeriesAndHeading.appendChild(serieIDElement);
 
         // Append the big container to the series section
         series_section.appendChild(BigContainerSeriesAndHeading);

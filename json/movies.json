@@ -1,1575 +1,1962 @@
 {
     "movies": [
         {
+            "id": 1,
             "title": "Anastasia",
-            "categories": [
-                "Børn"
-            ]
+            "categories": []
         },
         {
+            "id": 2,
             "title": "Family Guy Presents Blue Harvest",
             "categories": []
         },
         {
+            "id": 3,
             "title": "Family Guy Something Something Something Dark Side",
             "categories": []
         },
         {
+            "id": 4,
             "title": "Family Guy - It's a Trap (It's a Trap)",
             "categories": []
         },
         {
+            "id": 5,
             "title": "Fantastic mr. Fox",
             "categories": []
         },
         {
+            "id": 6,
             "title": "Ice age",
             "categories": []
         },
         {
+            "id": 7,
             "title": "Ice age 2",
             "categories": []
         },
         {
+            "id": 8,
             "title": "Ice age 3",
             "categories": []
         },
         {
+            "id": 9,
             "title": "Ice age 4",
             "categories": []
         },
         {
+            "id": 10,
             "title": "Robotter",
             "categories": []
         },
         {
+            "id": 11,
             "title": "Titan A. E",
             "categories": []
         },
         {
+            "id": 12,
             "title": "Aladdin og de fyrretyve røvere",
             "categories": []
         },
         {
+            "id": 13,
             "title": "Atlantis",
             "categories": []
         },
         {
+            "id": 14,
             "title": "Atlantis milo vender tilbage",
             "categories": []
         },
         {
+            "id": 15,
             "title": "Bionicle 2 Legenderne om Metru Nui",
             "categories": []
         },
         {
+            "id": 16,
             "title": "Big hero 6",
             "categories": []
         },
         {
+            "id": 17,
             "title": "High school musical",
             "categories": []
         },
         {
+            "id": 18,
             "title": "High school musical 2",
             "categories": []
         },
         {
+            "id": 19,
             "title": "High school musical 3",
             "categories": []
         },
         {
+            "id": 20,
             "title": "Nightmare before Christmas",
             "categories": []
         },
         {
+            "id": 21,
             "title": "Skatteplaneten",
             "categories": []
         },
         {
+            "id": 22,
             "title": "Taran og den magiske gryde",
             "categories": []
         },
         {
+            "id": 23,
             "title": "Vilde Rolf",
             "categories": []
         },
         {
+            "id": 24,
             "title": "Vilde Rolf smadrer internettet",
             "categories": []
         },
         {
+            "id": 25,
             "title": "X-men the legend of wolverine",
             "categories": []
         },
         {
+            "id": 26,
             "title": "Bad Guys De er super barske",
             "categories": []
         },
         {
+            "id": 27,
             "title": "Bee Movie Det store honningkomplot",
             "categories": []
         },
         {
+            "id": 28,
             "title": "Vejen til El Dorado",
             "categories": []
         },
         {
+            "id": 29,
             "title": "Flugten fra hønsegården",
             "categories": []
         },
         {
+            "id": 30,
             "title": "Sådan træner du din drage",
             "categories": []
         },
         {
+            "id": 31,
             "title": "Sådan træner du din drage 2",
             "categories": []
         },
         {
+            "id": 32,
             "title": "Sådan træner du din drage 3",
             "categories": []
         },
         {
+            "id": 33,
             "title": "Kung fu panda",
             "categories": []
         },
         {
+            "id": 34,
             "title": "Kung fu panda 2",
             "categories": []
         },
         {
+            "id": 35,
             "title": "Kung fu panda 3",
             "categories": []
         },
         {
+            "id": 36,
             "title": "Madagascar",
             "categories": []
         },
         {
+            "id": 37,
             "title": "Madagascar 2",
             "categories": []
         },
         {
+            "id": 38,
             "title": "Madagascar 3 Efterlyst i hele Europa",
             "categories": []
         },
         {
+            "id": 39,
             "title": "Shrek",
             "categories": []
         },
         {
+            "id": 40,
             "title": "Shrek 2",
             "categories": []
         },
         {
+            "id": 41,
             "title": "Shrek den tredje",
             "categories": []
         },
         {
+            "id": 42,
             "title": "Shrek sidste kapitel",
             "categories": []
         },
         {
+            "id": 43,
             "title": "Sinbad - Legenden fra de syv have",
             "categories": []
         },
         {
+            "id": 44,
             "title": "Spirit Hingsten fra Cimarron",
             "categories": []
         },
         {
+            "id": 45,
             "title": "Det regner med frikadeller",
             "categories": []
         },
         {
+            "id": 46,
             "title": "Hotel Transylvania",
             "categories": []
         },
         {
+            "id": 47,
             "title": "Hotel Transylvania 2",
             "categories": []
         },
         {
+            "id": 48,
             "title": "Hotel Transylvania 3",
             "categories": []
         },
         {
+            "id": 49,
             "title": "Svaneprinsessen",
             "categories": []
         },
         {
+            "id": 50,
             "title": "Arthur og minimoyserne",
             "categories": []
         },
         {
+            "id": 51,
             "title": "Arthur 2 maltazars hævn",
             "categories": []
         },
         {
+            "id": 52,
             "title": "Arthur 3 de to verdener",
             "categories": []
         },
         {
+            "id": 53,
             "title": "Radiserne forelskelse",
             "categories": []
         },
         {
+            "id": 54,
             "title": "Radiserne i skole igen",
             "categories": []
         },
         {
+            "id": 55,
             "title": "Radiserne valentine",
             "categories": []
         },
         {
+            "id": 56,
             "title": "Radiserne du er den bedste Søren brun",
             "categories": []
         },
         {
+            "id": 57,
             "title": "Radiserne you're a good sport charlie brown",
             "categories": []
         },
         {
+            "id": 58,
             "title": "Radiserne Christmas",
             "categories": []
         },
         {
+            "id": 59,
             "title": "Snoopy and charlie brown the movie",
             "categories": []
         },
         {
+            "id": 60,
             "title": "Trillingerne fra Belleville",
             "categories": []
         },
         {
+            "id": 61,
             "title": "Tintin Enhjørningens hemmelighed (3D)",
             "categories": []
         },
         {
+            "id": 62,
             "title": "Tintin og hajsøen",
             "categories": []
         },
         {
+            "id": 63,
             "title": "Asterix og de gæve gallere",
             "categories": []
         },
         {
+            "id": 64,
             "title": "Asterix sejren over Cæsar",
             "categories": []
         },
         {
+            "id": 65,
             "title": "Asterix operation bautasten",
             "categories": []
         },
         {
+            "id": 66,
             "title": "Asterix og obelix indtar rom",
             "categories": []
         },
         {
+            "id": 67,
             "title": "Asterix og vikingerne",
             "categories": []
         },
         {
+            "id": 68,
             "title": "Asterix og briterne",
             "categories": []
         },
         {
+            "id": 69,
             "title": "Asterix og kleopatra",
             "categories": []
         },
         {
+            "id": 70,
             "title": "Asterix & Obelix i kamp mod Cæsar",
             "categories": []
         },
         {
+            "id": 71,
             "title": "Asterix & Obelix Mission Kleopatra",
             "categories": []
         },
         {
+            "id": 72,
             "title": "Peter pan",
             "categories": []
         },
         {
+            "id": 73,
             "title": "Scooby-doo",
             "categories": []
         },
         {
+            "id": 74,
             "title": "Scooby-doo 2 Uhyrerne er løs",
             "categories": []
         },
         {
+            "id": 75,
             "title": "Aberne og det hemmelige våben",
             "categories": []
         },
         {
+            "id": 76,
             "title": "Bennys badekar",
             "categories": []
         },
         {
+            "id": 77,
             "title": "Cirkeline 2 ost og kærlighed",
             "categories": []
         },
         {
+            "id": 78,
             "title": "Cirkeline og verdens mindste superhelt",
             "categories": []
         },
         {
+            "id": 79,
             "title": "Drengen der ville gøre det umulige",
             "categories": []
         },
         {
+            "id": 80,
             "title": "Fuglekrigen i kanøfleskoven",
             "categories": []
         },
         {
+            "id": 81,
             "title": "Gummi T",
             "categories": []
         },
         {
+            "id": 82,
             "title": "Ternet ninja",
             "categories": []
         },
         {
+            "id": 83,
             "title": "Ternet ninja 2",
             "categories": []
         },
         {
+            "id": 84,
             "title": "Valhalla",
             "categories": []
         },
         {
+            "id": 85,
             "title": "Peddersen og findus det kattens år",
             "categories": []
         },
         {
+            "id": 86,
             "title": "Fornemt besøg Pedersen og findus på nye eventyr",
             "categories": []
         },
         {
+            "id": 87,
             "title": "Peddersen og findus 3 nissemaskinen",
             "categories": []
         },
         {
+            "id": 88,
             "title": "Peddersen og findus glemligheder",
             "categories": []
         },
         {
+            "id": 89,
             "title": "Pippi 1",
             "categories": []
         },
         {
+            "id": 90,
             "title": "Pippi 2",
             "categories": []
         },
         {
+            "id": 91,
             "title": "Pippi 3",
             "categories": []
         },
         {
+            "id": 92,
             "title": "Pippi 4",
             "categories": []
         },
         {
+            "id": 93,
             "title": "Pippi 5",
             "categories": []
         },
         {
+            "id": 94,
             "title": "Pippi 6",
             "categories": []
         },
         {
+            "id": 95,
             "title": "Toy story",
             "categories": []
         },
         {
+            "id": 96,
             "title": "Toy story 2",
             "categories": []
         },
         {
+            "id": 97,
             "title": "Toy story 3",
             "categories": []
         },
         {
+            "id": 98,
             "title": "Monsters inc",
             "categories": []
         },
         {
+            "id": 99,
             "title": "Monsters University",
             "categories": []
         },
         {
+            "id": 100,
             "title": "Græsrødderne",
             "categories": []
         },
         {
+            "id": 101,
             "title": "Ratatouille",
             "categories": []
         },
         {
+            "id": 102,
             "title": "Biler",
             "categories": []
         },
         {
+            "id": 103,
             "title": "Biler 2",
             "categories": []
         },
         {
+            "id": 104,
             "title": "Wall-E",
             "categories": []
         },
         {
+            "id": 105,
             "title": "De Utrolige",
             "categories": []
         },
         {
+            "id": 106,
             "title": "Op",
             "categories": []
         },
         {
+            "id": 107,
             "title": "Modig",
             "categories": []
         },
         {
+            "id": 108,
             "title": "Den gode dinosaur",
             "categories": []
         },
         {
+            "id": 109,
             "title": "Inderst inde",
             "categories": []
         },
         {
+            "id": 110,
             "title": "Find nemo",
-            "categories": [
-                "Børn",
-                "Sub-Pixar"
-            ]
+            "categories": []
         },
         {
+            "id": 111,
             "title": "Find dory",
             "categories": []
         },
         {
+            "id": 112,
             "title": "Cry baby",
             "categories": []
         },
         {
+            "id": 113,
             "title": "Edward Saksehånd",
             "categories": []
         },
         {
+            "id": 114,
             "title": "Benny & joon",
             "categories": []
         },
         {
+            "id": 115,
             "title": "Hva så gilbert grape",
             "categories": []
         },
         {
+            "id": 116,
             "title": "Don Juan DeMarco",
             "categories": []
         },
         {
+            "id": 117,
             "title": "Ed wood",
             "categories": []
         },
         {
+            "id": 118,
             "title": "Dead man",
             "categories": []
         },
         {
+            "id": 119,
             "title": "Nick of time",
             "categories": []
         },
         {
+            "id": 120,
             "title": "Donnie brasco",
             "categories": []
         },
         {
+            "id": 121,
             "title": "Fear of loathing in las vegas",
             "categories": []
         },
         {
+            "id": 122,
             "title": "The ninth gate",
             "categories": []
         },
         {
+            "id": 123,
             "title": "Sleepy hollow",
             "categories": []
         },
         {
+            "id": 124,
             "title": "Chocolat",
             "categories": []
         },
         {
+            "id": 125,
             "title": "Blow",
             "categories": []
         },
         {
+            "id": 126,
             "title": "From hell",
             "categories": []
         },
         {
+            "id": 127,
             "title": "Once upon a time in Mexico",
             "categories": []
         },
         {
+            "id": 128,
             "title": "Secret window",
             "categories": []
         },
         {
+            "id": 129,
             "title": "Finding neverland",
             "categories": []
         },
         {
+            "id": 130,
             "title": "The libertine",
             "categories": []
         },
         {
+            "id": 131,
             "title": "Sweeny todd the demon barber of Fleet Street",
             "categories": []
         },
         {
+            "id": 132,
             "title": "Public enemies",
             "categories": []
         },
         {
+            "id": 133,
             "title": "Alice i eventyrland",
             "categories": []
         },
         {
+            "id": 134,
             "title": "The tourist",
             "categories": []
         },
         {
+            "id": 135,
             "title": "Rango",
             "categories": []
         },
         {
+            "id": 136,
             "title": "Dark shadows",
             "categories": []
         },
         {
+            "id": 137,
             "title": "The lone ranger",
             "categories": []
         },
         {
+            "id": 138,
             "title": "Transcendence",
             "categories": []
         },
         {
+            "id": 139,
             "title": "Mordecai",
             "categories": []
         },
         {
+            "id": 140,
             "title": "Richard says goodbye",
             "categories": []
         },
         {
+            "id": 141,
             "title": "Burlesque",
             "categories": []
         },
         {
+            "id": 142,
             "title": "Click",
             "categories": []
         },
         {
+            "id": 143,
             "title": "da Harry mødte sally",
             "categories": []
         },
         {
+            "id": 144,
             "title": "Det indviklet",
             "categories": []
         },
         {
+            "id": 145,
             "title": "The devil wears prada",
             "categories": []
         },
         {
+            "id": 146,
             "title": "Droppet af sarah marshall",
             "categories": []
         },
         {
+            "id": 147,
             "title": "EasyA",
             "categories": []
         },
         {
+            "id": 148,
             "title": "Et sikkert hit",
             "categories": []
         },
         {
+            "id": 149,
             "title": "En ny dag truer",
             "categories": []
         },
         {
+            "id": 150,
             "title": "Enough said",
             "categories": []
         },
         {
+            "id": 151,
             "title": "Grease er ordet",
             "categories": []
         },
         {
+            "id": 152,
             "title": "Grown ups",
             "categories": []
         },
         {
+            "id": 153,
             "title": "The holiday",
             "categories": []
         },
         {
+            "id": 154,
             "title": "It's kind of a funny story",
             "categories": []
         },
         {
+            "id": 155,
             "title": "Juno",
             "categories": []
         },
         {
+            "id": 156,
             "title": "Life as we know it",
             "categories": []
         },
         {
+            "id": 157,
             "title": "Life as a house",
             "categories": []
         },
         {
+            "id": 158,
             "title": "My big fat greek wedding",
             "categories": []
         },
         {
+            "id": 159,
             "title": "Nick and Norahs Infinite Playlist",
             "categories": []
         },
         {
+            "id": 160,
             "title": "No strings attached",
             "categories": []
         },
         {
+            "id": 161,
             "title": "Norbit",
             "categories": []
         },
         {
+            "id": 162,
             "title": "Når du mindst venter det",
             "categories": []
         },
         {
+            "id": 163,
             "title": "Parterapi I paradis",
             "categories": []
         },
         {
+            "id": 164,
             "title": "Reality bites",
             "categories": []
         },
         {
+            "id": 165,
             "title": "Samme dag næste år",
             "categories": []
         },
         {
+            "id": 166,
             "title": "Sex tape",
             "categories": []
         },
         {
+            "id": 167,
             "title": "St. Trinians lærernes skræk",
             "categories": []
         },
         {
+            "id": 168,
             "title": "Starter for 10",
             "categories": []
         },
         {
+            "id": 169,
             "title": "10 things I hate about you",
             "categories": []
         },
         {
+            "id": 170,
             "title": "27 bryllupper",
             "categories": []
         },
         {
+            "id": 171,
             "title": "Big fish",
             "categories": []
         },
         {
+            "id": 172,
             "title": "Big sick",
             "categories": []
         },
         {
+            "id": 173,
             "title": "The Big wedding",
             "categories": []
         },
         {
+            "id": 174,
             "title": "The break up",
             "categories": []
         },
         {
+            "id": 175,
             "title": "Bride wars",
             "categories": []
         },
         {
+            "id": 176,
             "title": "Bridesmaids",
             "categories": []
         },
         {
+            "id": 177,
             "title": "Bridget Jones dagbog",
             "categories": []
         },
         {
+            "id": 178,
             "title": "Bridget Jones På randen af fornuft",
             "categories": []
         },
         {
+            "id": 179,
             "title": "Bridget Jones Baby",
             "categories": []
         },
         {
+            "id": 180,
             "title": "Ant-man",
             "categories": []
         },
         {
+            "id": 181,
             "title": "Ant-Man and the Wasp",
             "categories": []
         },
         {
+            "id": 182,
             "title": "Avengers",
             "categories": []
         },
         {
+            "id": 183,
             "title": "Avengers age of ultron",
             "categories": []
         },
         {
+            "id": 184,
             "title": "Avengers civil war",
             "categories": []
         },
         {
+            "id": 185,
             "title": "Avengers Infinity War",
             "categories": []
         },
         {
+            "id": 186,
             "title": "Avengers endgame",
             "categories": []
         },
         {
+            "id": 187,
             "title": "Deadpool",
             "categories": []
         },
         {
+            "id": 188,
             "title": "Doctor strange",
             "categories": []
         },
         {
+            "id": 189,
             "title": "Doctor Strange in the Multiverse of Madness",
             "categories": []
         },
         {
+            "id": 190,
             "title": "Ghost rider",
             "categories": []
         },
         {
+            "id": 191,
             "title": "Ghost rider 2",
             "categories": []
         },
         {
+            "id": 192,
             "title": "Guardians of the galaxy",
             "categories": []
         },
         {
+            "id": 193,
             "title": "Guardians of the galaxy Vol. 2",
             "categories": []
         },
         {
+            "id": 194,
             "title": "Iron man metal",
             "categories": []
         },
         {
+            "id": 195,
             "title": "Iron man",
             "categories": []
         },
         {
+            "id": 196,
             "title": "Iron man 2",
             "categories": []
         },
         {
+            "id": 197,
             "title": "Iron man 3",
             "categories": []
         },
         {
+            "id": 198,
             "title": "Thor",
             "categories": []
         },
         {
+            "id": 199,
             "title": "Spiderman",
             "categories": []
         },
         {
+            "id": 200,
             "title": "Spiderman 2",
             "categories": []
         },
         {
+            "id": 201,
             "title": "Spiderman 3",
             "categories": []
         },
         {
+            "id": 202,
             "title": "The Amazing Spiderman",
             "categories": []
         },
         {
+            "id": 203,
             "title": "The Amazing Spiderman 2",
             "categories": []
         },
         {
+            "id": 204,
             "title": "Spiderman homecoming",
             "categories": []
         },
         {
+            "id": 205,
             "title": "Spiderman Far from home",
             "categories": []
         },
         {
+            "id": 206,
             "title": "Spiderman No way home",
             "categories": []
         },
         {
+            "id": 207,
             "title": "Spiderman into the spiderverse",
             "categories": []
         },
         {
+            "id": 208,
             "title": "Spiderman across the spider-verse",
             "categories": []
         },
         {
+            "id": 209,
             "title": "Venom",
             "categories": []
         },
         {
+            "id": 210,
             "title": "Venom let there be carnage",
             "categories": []
         },
         {
+            "id": 211,
             "title": "X-men the last stand",
             "categories": []
         },
         {
+            "id": 212,
             "title": "X-men First Class",
             "categories": []
         },
         {
+            "id": 213,
             "title": "Bladerunner 2049",
             "categories": []
         },
         {
+            "id": 214,
             "title": "The book of eli",
             "categories": []
         },
         {
+            "id": 215,
             "title": "Buried",
             "categories": []
         },
         {
+            "id": 216,
             "title": "Chappie",
             "categories": []
         },
         {
+            "id": 217,
             "title": "Django unchained",
             "categories": []
         },
         {
+            "id": 218,
             "title": "Edge of tomorrow",
             "categories": []
         },
         {
+            "id": 219,
             "title": "Elysium",
             "categories": []
         },
         {
+            "id": 220,
             "title": "Flatliners",
             "categories": []
         },
         {
+            "id": 221,
             "title": "Inception",
             "categories": []
         },
         {
+            "id": 222,
             "title": "Interstellar",
             "categories": []
         },
         {
+            "id": 223,
             "title": "The Martian",
             "categories": []
         },
         {
+            "id": 224,
             "title": "Men In Black",
             "categories": []
         },
         {
+            "id": 225,
             "title": "Men In Black 2",
             "categories": []
         },
         {
+            "id": 226,
             "title": "Men In Black 3",
             "categories": []
         },
         {
+            "id": 227,
             "title": "Men in Black International",
             "categories": []
         },
         {
+            "id": 228,
             "title": "Real steel",
             "categories": []
         },
         {
+            "id": 229,
             "title": "Taken",
             "categories": []
         },
         {
+            "id": 230,
             "title": "Watchmen",
             "categories": []
         },
         {
+            "id": 231,
             "title": "Zombieland",
             "categories": []
         },
         {
+            "id": 232,
             "title": "Awake",
             "categories": []
         },
         {
+            "id": 233,
             "title": "District 9",
             "categories": []
         },
         {
+            "id": 234,
             "title": "Dream girls",
             "categories": []
         },
         {
+            "id": 235,
             "title": "Det Femte element",
             "categories": []
         },
         {
+            "id": 236,
             "title": "Ghostbusters",
             "categories": []
         },
         {
+            "id": 237,
             "title": "Gladiator",
             "categories": []
         },
         {
+            "id": 238,
             "title": "Goodbye Lenin",
             "categories": []
         },
         {
+            "id": 239,
             "title": "Good will hunting",
             "categories": []
         },
         {
+            "id": 240,
             "title": "The greatest",
             "categories": []
         },
         {
+            "id": 241,
             "title": "Hancock",
             "categories": []
         },
         {
+            "id": 242,
             "title": "Hellboy",
             "categories": []
         },
         {
+            "id": 243,
             "title": "Drink from me and live forever",
             "categories": []
         },
         {
+            "id": 244,
             "title": "King kong",
             "categories": []
         },
         {
+            "id": 245,
             "title": "Kingsman The Secret Service",
             "categories": []
         },
         {
+            "id": 246,
             "title": "My Week with Marilyn",
             "categories": []
         },
         {
+            "id": 247,
             "title": "Ninja assassin",
             "categories": []
         },
         {
+            "id": 248,
             "title": "One true thing",
             "categories": []
         },
         {
+            "id": 249,
             "title": "Pulp fiction",
             "categories": []
         },
         {
+            "id": 250,
             "title": "The reader",
             "categories": []
         },
         {
+            "id": 251,
             "title": "The runaways",
             "categories": []
         },
         {
+            "id": 252,
             "title": "The social network",
             "categories": []
         },
         {
+            "id": 253,
             "title": "War of the worlds",
             "categories": []
         },
         {
+            "id": 254,
             "title": "Arriettys hemmelige verden",
             "categories": []
         },
         {
+            "id": 255,
             "title": "Chihiro og heksene",
             "categories": []
         },
         {
+            "id": 256,
             "title": "Det levende slot",
             "categories": []
         },
         {
+            "id": 257,
             "title": "Grave of the fireflies",
             "categories": []
         },
         {
+            "id": 258,
             "title": "Porco rosso",
             "categories": []
         },
         {
+            "id": 259,
             "title": "Prinsesse mononoke",
             "categories": []
         },
         {
+            "id": 260,
             "title": "Kiki den lille heks",
             "categories": []
         },
         {
+            "id": 261,
             "title": "Laputa slottet i himlen",
             "categories": []
         },
         {
+            "id": 262,
             "title": "Marnie min hemmelige ven",
             "categories": []
         },
         {
+            "id": 263,
             "title": "Min nabo Totoro",
             "categories": []
         },
         {
+            "id": 264,
             "title": "Minder fra i går",
             "categories": []
         },
         {
+            "id": 265,
             "title": "My neighbors the yamadas",
             "categories": []
         },
         {
+            "id": 266,
             "title": "Nausicaä of the Valley of the Wind",
             "categories": []
         },
         {
+            "id": 267,
             "title": "Når vinden rejser sig",
             "categories": []
         },
         {
+            "id": 268,
             "title": "Oppe på valmuebakken",
             "categories": []
         },
         {
+            "id": 269,
             "title": "Ponyo på klippen ved havet",
             "categories": []
         },
         {
+            "id": 270,
             "title": "A silent voice",
             "categories": []
         },
         {
+            "id": 271,
             "title": "The boy and the beast",
             "categories": []
         },
         {
+            "id": 272,
             "title": "Death note movie part 1",
             "categories": []
         },
         {
+            "id": 273,
             "title": "Doukyuusei",
             "categories": []
         },
         {
+            "id": 274,
             "title": "Austin powers",
             "categories": []
         },
         {
+            "id": 275,
             "title": "Austin Powers The Spy Who Shagged Me",
             "categories": []
         },
         {
+            "id": 276,
             "title": "Austin Powers Goldmember",
             "categories": []
         },
         {
+            "id": 277,
             "title": "Back to the future",
             "categories": []
         },
         {
+            "id": 278,
             "title": "Back to the future part 2",
             "categories": []
         },
         {
+            "id": 279,
             "title": "Back to the future part 3",
             "categories": []
         },
         {
+            "id": 280,
             "title": "Batman begins",
             "categories": []
         },
         {
+            "id": 281,
             "title": "Batman the dark knight",
             "categories": []
         },
         {
+            "id": 282,
             "title": "Batman the dark knight rises",
             "categories": []
         },
         {
+            "id": 283,
             "title": "Beautiful creatures",
             "categories": []
         },
         {
+            "id": 284,
             "title": "The bourne identity",
             "categories": []
         },
         {
+            "id": 285,
             "title": "Charlie's angels",
             "categories": []
         },
         {
+            "id": 286,
             "title": "Charlie's angels uden hæmninger",
             "categories": []
         },
         {
+            "id": 287,
             "title": "Det gyldne kompas",
             "categories": []
         },
         {
+            "id": 288,
             "title": "Divergent",
             "categories": []
         },
         {
+            "id": 289,
             "title": "Insurgent",
             "categories": []
         },
         {
+            "id": 290,
             "title": "Harry potter og de vises sten",
             "categories": []
         },
         {
+            "id": 291,
             "title": "Harry potter og hemmelighedernes kammer",
             "categories": []
         },
         {
+            "id": 292,
             "title": "Harry potter og fangen fra azkaban",
             "categories": []
         },
         {
+            "id": 293,
             "title": "Harry potter og flammernes pokal",
             "categories": []
         },
         {
+            "id": 294,
             "title": "Harry potter og fønixordenen",
             "categories": []
         },
         {
+            "id": 295,
             "title": "Harry potter og dødsregalierne del 1",
             "categories": []
         },
         {
+            "id": 296,
             "title": "Harry potter og dødsregalierne del 2",
             "categories": []
         },
         {
+            "id": 297,
             "title": "The Hunger Games",
             "categories": []
         },
         {
+            "id": 298,
             "title": "The Hunger Games Catching Fire",
             "categories": []
         },
         {
+            "id": 299,
             "title": "The Hunger Games Mockingjay - del 1",
             "categories": []
         },
         {
+            "id": 300,
             "title": "The Hunger Games Mockingjay - del 2",
             "categories": []
         },
         {
+            "id": 301,
             "title": "John Wick",
             "categories": []
         },
         {
+            "id": 302,
             "title": "John Wick chapter 2",
             "categories": []
         },
         {
+            "id": 303,
             "title": "John Wick chapter 3 Parabellum",
             "categories": []
         },
         {
+            "id": 304,
             "title": "John Wick chapter 4",
             "categories": []
         },
         {
+            "id": 305,
             "title": "The Matrix",
             "categories": []
         },
         {
+            "id": 306,
             "title": "Matrix reloaded",
             "categories": []
         },
         {
+            "id": 307,
             "title": "Matrix revolution",
             "categories": []
         },
         {
+            "id": 308,
             "title": "Animatrix",
             "categories": []
         },
         {
+            "id": 309,
             "title": "Naruto Ninja clash in the land of snow",
             "categories": []
         },
         {
+            "id": 310,
             "title": "Naruto legend of the stone gelel",
             "categories": []
         },
         {
+            "id": 311,
             "title": "Naruto guardians of the moon kingdom",
             "categories": []
         },
         {
+            "id": 312,
             "title": "Naruto shippuden the movie",
             "categories": []
         },
         {
+            "id": 313,
             "title": "Naruto shippuden bonds",
             "categories": []
         },
         {
+            "id": 314,
             "title": "Naruto shippuden the will of fire",
             "categories": []
         },
         {
+            "id": 315,
             "title": "Naruto Road to ninja",
             "categories": []
         },
         {
+            "id": 316,
             "title": "The last naruto the movie",
             "categories": []
         },
         {
+            "id": 317,
             "title": "Ghost in the shell",
             "categories": []
         },
         {
+            "id": 318,
             "title": "Ghost in the Shell 2 Innocence",
             "categories": []
         },
         {
+            "id": 319,
             "title": "The girl who leapt through time",
             "categories": []
         },
         {
+            "id": 320,
             "title": "Evangelion 3.33",
             "categories": []
         },
         {
+            "id": 321,
             "title": "Ninja scroll",
             "categories": []
         },
         {
+            "id": 322,
             "title": "Perfect blue",
             "categories": []
         },
         {
+            "id": 323,
             "title": "Summer wars",
             "categories": []
         },
         {
+            "id": 324,
             "title": "Wolf children",
             "categories": []
         },
         {
+            "id": 325,
             "title": "The maze runner",
             "categories": []
         },
         {
+            "id": 326,
             "title": "The mortal instruments dæmonernes by",
             "categories": []
         },
         {
+            "id": 327,
             "title": "Mumien",
             "categories": []
         },
         {
+            "id": 328,
             "title": "The Mummy Returns",
             "categories": []
         },
         {
+            "id": 329,
             "title": "Pirates of the Caribbean Den Sorte Forbandelse",
             "categories": []
         },
         {
+            "id": 330,
             "title": "Pirates of the Caribbean Død Mands Kiste",
             "categories": []
         },
         {
+            "id": 331,
             "title": "Pirates of the Caribbean Ved Verdens Ende",
             "categories": []
         },
         {
+            "id": 332,
             "title": "Skammerens datter",
             "categories": []
         },
         {
+            "id": 333,
             "title": "Star Wars Episode 1 The Phantom Menace",
             "categories": []
         },
         {
+            "id": 334,
             "title": "Star Wars Episode 2 Attack of the Clones",
             "categories": []
         },
         {
+            "id": 335,
             "title": "Star Wars Episode 3 Revenge of the Sith",
             "categories": []
         },
         {
+            "id": 336,
             "title": "Star Wars Episode 4 A new hope",
             "categories": []
         },
         {
+            "id": 337,
             "title": "Star Wars Episode 5 The Empire Strikes Back",
             "categories": []
         },
         {
+            "id": 338,
             "title": "Star Wars Episode 6 Return of the Jedi",
             "categories": []
         },
         {
+            "id": 339,
             "title": "Transformers",
             "categories": []
         },
         {
+            "id": 340,
             "title": "Transformers revenge of the fallen",
             "categories": []
         },
         {
+            "id": 341,
             "title": "Transformers dark of the moon",
             "categories": []
         },
         {
+            "id": 342,
             "title": "Twilight",
             "categories": []
         },
         {
+            "id": 343,
             "title": "The Twilight Saga New Moon",
             "categories": []
         },
         {
+            "id": 344,
             "title": "The Twilight Saga Eclipse",
             "categories": []
         },
         {
+            "id": 345,
             "title": "The Twilight Saga Breaking Dawn del 1",
             "categories": []
         },
         {
+            "id": 346,
             "title": "The Twilight Saga Breaking Dawn del 2",
             "categories": []
         },
         {
+            "id": 347,
             "title": "Olsen banden",
             "categories": []
         },
         {
+            "id": 348,
             "title": "Olsen banden på spanden",
             "categories": []
         },
         {
+            "id": 349,
             "title": "Olsen banden i Jylland",
             "categories": []
         },
         {
+            "id": 350,
             "title": "Olsen bandens store kup",
             "categories": []
         },
         {
+            "id": 351,
             "title": "Olsen banden går amok",
             "categories": []
         },
         {
+            "id": 352,
             "title": "Olsen bandens sidste bedrifter",
             "categories": []
         },
         {
+            "id": 353,
             "title": "Olsen banden på sporet",
             "categories": []
         },
         {
+            "id": 354,
             "title": "Olsen banden ser rødt",
             "categories": []
         },
         {
+            "id": 355,
             "title": "Olsen banden deruda",
             "categories": []
         },
         {
+            "id": 356,
             "title": "Olsen banden går i krig",
             "categories": []
         },
         {
+            "id": 357,
             "title": "Olsen banden overgiver sig aldrig",
             "categories": []
         },
         {
+            "id": 358,
             "title": "Olsen bandens flugt over plankeværket",
             "categories": []
         },
         {
+            "id": 359,
             "title": "Olsen banden over alle bjerge",
             "categories": []
         },
         {
+            "id": 360,
             "title": "Olsen bandens sidste stik",
             "categories": []
         },
         {
+            "id": 361,
             "title": "Alt på et bræt",
             "categories": []
         },
         {
+            "id": 362,
             "title": "Baronessen fra benzintanken",
             "categories": []
         },
         {
+            "id": 363,
             "title": "Majorens oppasser",
             "categories": []
         },
         {
+            "id": 364,
             "title": "Piger i trøjen",
             "categories": []
         },
         {
+            "id": 365,
             "title": "Piger i trøjen 2",
             "categories": []
         },
         {
+            "id": 366,
             "title": "En pige og 39 sømænd",
             "categories": []
         },
         {
+            "id": 367,
             "title": "Familien gyldenkål",
             "categories": []
         },
         {
+            "id": 368,
             "title": "Familien gyldenkål sprænger banken",
             "categories": []
         },
         {
+            "id": 369,
             "title": "Flådens friske fyrer",
             "categories": []
         },
         {
+            "id": 370,
             "title": "Sømand i knibe",
             "categories": []
         },
         {
+            "id": 371,
             "title": "Sømænd og svigermødre",
             "categories": []
         },
         {
+            "id": 372,
             "title": "Han hun dirch og dario",
             "categories": []
         },
         {
+            "id": 373,
             "title": "Midt om natten",
             "categories": []
         },
         {
+            "id": 374,
             "title": "Martha",
             "categories": []
         },
         {
+            "id": 375,
             "title": "Min søsters børn",
             "categories": []
         },
         {
+            "id": 376,
             "title": "Min søsters børn på bryllupsrejse",
             "categories": []
         },
         {
+            "id": 377,
             "title": "Min søsters børn vælter byen",
             "categories": []
         },
         {
+            "id": 378,
             "title": "Min søsters børn når de er værst",
             "categories": []
         },
         {
+            "id": 379,
             "title": "Peters baby",
             "categories": []
         },
         {
+            "id": 380,
             "title": "Pigen og greven",
             "categories": []
         },
         {
+            "id": 381,
             "title": "Pigen og millionæren",
             "categories": []
         },
         {
+            "id": 382,
             "title": "Pigen og pressefotografen",
             "categories": []
         },
         {
+            "id": 383,
             "title": "Slå først frede",
             "categories": []
         },
         {
+            "id": 384,
             "title": "Slap af frede",
             "categories": []
         },
         {
+            "id": 385,
             "title": "Sonja fra saxogade",
             "categories": []
         },
         {
+            "id": 386,
             "title": "Støv på hjernen",
             "categories": []
         },
         {
+            "id": 387,
             "title": "Det støver stadig",
             "categories": []
         },
         {
+            "id": 388,
             "title": "Støv for alle pengene",
             "categories": []
         },
         {
+            "id": 389,
             "title": "Passer passer piger",
             "categories": []
         },
         {
+            "id": 390,
             "title": "Den skaldede frisør",
             "categories": []
         },
         {
+            "id": 391,
             "title": "Hvidsten gruppen",
             "categories": []
         },
         {
+            "id": 392,
             "title": "Midsommer",
             "categories": []
         }
