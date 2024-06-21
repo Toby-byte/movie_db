@@ -6,7 +6,7 @@ todo: fix series js and css so it matches movies (done)
 
 todo: pixar film ændres til dansk (done)
 
-todo: put the website on github pages
+todo: put the website on github pages (done)
 
 todo: mabye add search for mangler? if you do so just copy what i did on the other pages
 
