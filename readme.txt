@@ -11,4 +11,6 @@ todo: put the website on github pages (done)
 todo: mabye add search for mangler? if you do so just copy what i did on the other pages
 
 use the movie database api to get discriptions for movies and more
-url: https://www.themoviedb.org/ 
+url: https://www.themoviedb.org/
+
+for finding movie id's: https://developer.themoviedb.org/reference/search-movie
