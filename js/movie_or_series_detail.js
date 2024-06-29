@@ -5,6 +5,8 @@ const title = parameters.title;
 // uses the parameters variable to get the image of the movie
 const image = parameters.image;
 
+const overview_section = document.getElementById("overview_section");
+
 // Sets the HTML elements to the title and image of the movie
 if (image && title) {
     document.getElementById("title").textContent = title;
@@ -13,6 +15,39 @@ if (image && title) {
     document.body.textContent("Error: Movie title or image not found")
 }
 
+fetchMovieDetails();
+
+async function fetchMovieDetails() {
+    try {
+        const response = await fetch("json/movie_details.json");
+        const data = await response.json();
+
+        // Log the data to debug
+        console.log(data); // Check what the data looks like
+
+        // Iterate over each movie to fetch details
+        for (const movie of data) {
+            const movieTitle = movie.title;
+
+            if (movieTitle === title) {
+                const overview = movie.overview;
+                const overviewElement = document.createElement('p');
+                overviewElement.textContent = overview;
+
+                const release_date = movie.release_date;
+                const release_dateElement = document.createElement('p');
+                release_dateElement.textContent = release_date;
+
+                overview_section.appendChild(overviewElement);
+                overview_section.appendChild(release_dateElement);
+            }
+        }
+    } catch (error) {
+        console.error('Error creating overview',error);
+    }
+}
+
+// -------------Functions down here here-------------
 
 function getQueryParameteres() {
     // A object is created to store key value pairs

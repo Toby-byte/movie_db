@@ -47,9 +47,6 @@ fetch('json/movies.json').then(response => {
     movie_section.textContent = 'Failed to load movies';
 });
 
-
-
-
 function displayMovies(movies) {
     movie_section.innerHTML = ''; // clear prevoius search result 
 
@@ -62,6 +59,10 @@ function displayMovies(movies) {
         // Create movie id element
         const movieIDElement = document.createElement('p');
         movieIDElement.textContent =  `Film nr.${movie.id}`;
+        
+        // Create movie id element
+        const movieReleaseDateElement = document.createElement('p');
+        movieReleaseDateElement.textContent =  `${movie.release_date}`;
                     
         // Create the big container for movie and heading
         const BigContainerMovieAndHeading = document.createElement('article');
@@ -90,6 +91,7 @@ function displayMovies(movies) {
         BigContainerMovieAndHeading.appendChild(movieContainer);
         BigContainerMovieAndHeading.appendChild(movieElement);
         BigContainerMovieAndHeading.appendChild(movieIDElement);
+        BigContainerMovieAndHeading.appendChild(movieReleaseDateElement);
 
         // Append the big container to the movie section
         movie_section.appendChild(BigContainerMovieAndHeading);

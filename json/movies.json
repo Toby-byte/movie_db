@@ -2,6 +2,7 @@
     "movies": [
         {
             "id": 1,
+            "release_date": "1997-11-20",
             "title": "Anastasia",
             "categories": [
                 "Børn"
@@ -9,6 +10,7 @@
         },
         {
             "id": 2,
+            "release_date": "2008-01-21",
             "title": "Family Guy Presents Blue Harvest",
             "categories": [
                 "Science fiction"
@@ -16,6 +18,7 @@
         },
         {
             "id": 3,
+            "release_date": "2009-12-22",
             "title": "Family Guy Something Something Something Dark Side",
             "categories": [
                 "Science fiction"
@@ -23,6 +26,7 @@
         },
         {
             "id": 4,
+            "release_date": "2010-12-21",
             "title": "Family Guy - It's a Trap (It's a Trap)",
             "categories": [
                 "Science fiction"
@@ -30,6 +34,7 @@
         },
         {
             "id": 5,
+            "release_date": "2009-10-23",
             "title": "Fantastic mr. Fox",
             "categories": [
                 "Børn"
@@ -37,6 +42,7 @@
         },
         {
             "id": 6,
+            "release_date": "2002-03-10",
             "title": "Ice age",
             "categories": [
                 "Børn"
@@ -44,6 +50,7 @@
         },
         {
             "id": 7,
+            "release_date": "2006-03-29",
             "title": "Ice Age 2 På tynd is",
             "categories": [
                 "Børn"
@@ -51,6 +58,7 @@
         },
         {
             "id": 8,
+            "release_date": "2009-06-26",
             "title": "Ice Age 3 Dinosaurerne kommer",
             "categories": [
                 "Børn"
@@ -58,6 +66,7 @@
         },
         {
             "id": 9,
+            "release_date": "2012-06-27",
             "title": "Ice Age 4 På gyngende grund",
             "categories": [
                 "Børn"
@@ -65,6 +74,7 @@
         },
         {
             "id": 10,
+            "release_date": "2005-03-10",
             "title": "Robotter",
             "categories": [
                 "Børn"
@@ -72,6 +82,7 @@
         },
         {
             "id": 11,
+            "release_date": "2000-06-16",
             "title": "Titan A. E",
             "categories": [
                 "Børn"
@@ -79,6 +90,7 @@
         },
         {
             "id": 12,
+            "release_date": "1996-05-20",
             "title": "Aladdin og de fyrretyve røvere",
             "categories": [
                 "Børn"
@@ -86,6 +98,7 @@
         },
         {
             "id": 13,
+            "release_date": "2001-06-02",
             "title": "Atlantis",
             "categories": [
                 "Børn",
@@ -94,6 +107,7 @@
         },
         {
             "id": 14,
+            "release_date": "2003-02-25",
             "title": "Atlantis milo vender tilbage",
             "categories": [
                 "Børn",
@@ -102,6 +116,7 @@
         },
         {
             "id": 15,
+            "release_date": "2004-10-21",
             "title": "Bionicle 2 Legenderne om Metru Nui",
             "categories": [
                 "Børn"
@@ -109,6 +124,7 @@
         },
         {
             "id": 16,
+            "release_date": "2014-10-24",
             "title": "Big hero 6",
             "categories": [
                 "Børn",
@@ -117,6 +133,7 @@
         },
         {
             "id": 17,
+            "release_date": "2023-06-14",
             "title": "Elementært",
             "categories": [
                 "Børn",
@@ -125,6 +142,7 @@
         },
         {
             "id": 18,
+            "release_date": "2006-01-20",
             "title": "High school musical",
             "categories": [
                 "Børn"
@@ -132,6 +150,7 @@
         },
         {
             "id": 19,
+            "release_date": "2007-08-17",
             "title": "High school musical 2",
             "categories": [
                 "Børn"
@@ -139,6 +158,7 @@
         },
         {
             "id": 20,
+            "release_date": "2008-10-11",
             "title": "High school musical 3",
             "categories": [
                 "Børn"
@@ -146,6 +166,7 @@
         },
         {
             "id": 21,
+            "release_date": "1993-10-09",
             "title": "Nightmare before Christmas",
             "categories": [
                 "Børn"
@@ -153,6 +174,7 @@
         },
         {
             "id": 22,
+            "release_date": "2002-11-26",
             "title": "Skatteplaneten",
             "categories": [
                 "Børn",
@@ -161,6 +183,7 @@
         },
         {
             "id": 23,
+            "release_date": "1985-07-24",
             "title": "Taran og den magiske gryde",
             "categories": [
                 "Børn",
@@ -169,6 +192,7 @@
         },
         {
             "id": 24,
+            "release_date": "2012-11-01",
             "title": "Vilde Rolf",
             "categories": [
                 "Børn",
@@ -177,6 +201,7 @@
         },
         {
             "id": 25,
+            "release_date": "2018-11-20",
             "title": "Vilde Rolf smadrer internettet",
             "categories": [
                 "Børn",
@@ -185,6 +210,7 @@
         },
         {
             "id": 26,
+            "release_date": "2003-04-29",
             "title": "X-men the legend of wolverine",
             "categories": [
                 "Børn"
@@ -192,6 +218,7 @@
         },
         {
             "id": 27,
+            "release_date": "2022-03-17",
             "title": "Bad Guys De er super barske",
             "categories": [
                 "Børn"
@@ -199,6 +226,7 @@
         },
         {
             "id": 28,
+            "release_date": "2007-10-28",
             "title": "Bee Movie Det store honningkomplot",
             "categories": [
                 "Børn"
@@ -206,6 +234,7 @@
         },
         {
             "id": 29,
+            "release_date": "2000-03-31",
             "title": "Vejen til El Dorado",
             "categories": [
                 "Børn"
@@ -213,6 +242,7 @@
         },
         {
             "id": 30,
+            "release_date": "2000-06-23",
             "title": "Flugten fra hønsegården",
             "categories": [
                 "Børn"
@@ -220,6 +250,7 @@
         },
         {
             "id": 31,
+            "release_date": "2010-03-18",
             "title": "Sådan træner du din drage",
             "categories": [
                 "Børn"
@@ -227,6 +258,7 @@
         },
         {
             "id": 32,
+            "release_date": "2014-06-05",
             "title": "Sådan træner du din drage 2",
             "categories": [
                 "Børn"
@@ -234,6 +266,7 @@
         },
         {
             "id": 33,
+            "release_date": "2019-01-03",
             "title": "Sådan træner du din drage 3",
             "categories": [
                 "Børn"
@@ -241,6 +274,7 @@
         },
         {
             "id": 34,
+            "release_date": "2008-06-04",
             "title": "Kung fu panda",
             "categories": [
                 "Børn"
@@ -248,6 +282,7 @@
         },
         {
             "id": 35,
+            "release_date": "2011-05-25",
             "title": "Kung fu panda 2",
             "categories": [
                 "Børn"
@@ -255,6 +290,7 @@
         },
         {
             "id": 36,
+            "release_date": "2016-01-23",
             "title": "Kung fu panda 3",
             "categories": [
                 "Børn"
@@ -262,6 +298,7 @@
         },
         {
             "id": 37,
+            "release_date": "2005-05-25",
             "title": "Madagascar",
             "categories": [
                 "Børn"
@@ -269,6 +306,7 @@
         },
         {
             "id": 38,
+            "release_date": "2008-10-30",
             "title": "Madagascar 2",
             "categories": [
                 "Børn"
@@ -276,6 +314,7 @@
         },
         {
             "id": 39,
+            "release_date": "2012-06-06",
             "title": "Madagascar 3 Efterlyst i hele Europa",
             "categories": [
                 "Børn"
@@ -283,6 +322,7 @@
         },
         {
             "id": 40,
+            "release_date": "2001-05-18",
             "title": "Shrek",
             "categories": [
                 "Børn"
@@ -290,6 +330,7 @@
         },
         {
             "id": 41,
+            "release_date": "2004-05-19",
             "title": "Shrek 2",
             "categories": [
                 "Børn"
@@ -297,6 +338,7 @@
         },
         {
             "id": 42,
+            "release_date": "2007-05-17",
             "title": "Shrek den tredje",
             "categories": [
                 "Børn"
@@ -304,6 +346,7 @@
         },
         {
             "id": 43,
+            "release_date": "2010-05-16",
             "title": "Shrek sidste kapitel",
             "categories": [
                 "Børn"
@@ -311,6 +354,7 @@
         },
         {
             "id": 44,
+            "release_date": "2003-07-02",
             "title": "Sinbad - Legenden fra de syv have",
             "categories": [
                 "Børn"
@@ -318,6 +362,7 @@
         },
         {
             "id": 45,
+            "release_date": "2002-05-24",
             "title": "Spirit Hingsten fra Cimarron",
             "categories": [
                 "Børn"
@@ -325,6 +370,7 @@
         },
         {
             "id": 46,
+            "release_date": "2009-09-17",
             "title": "Det regner med frikadeller",
             "categories": [
                 "Børn"
@@ -332,6 +378,7 @@
         },
         {
             "id": 47,
+            "release_date": "2012-09-20",
             "title": "Hotel Transylvania",
             "categories": [
                 "Børn"
@@ -339,6 +386,7 @@
         },
         {
             "id": 48,
+            "release_date": "2015-09-21",
             "title": "Hotel Transylvania 2",
             "categories": [
                 "Børn"
@@ -346,6 +394,7 @@
         },
         {
             "id": 49,
+            "release_date": "2018-06-28",
             "title": "Hotel Transylvania 3",
             "categories": [
                 "Børn"
@@ -353,6 +402,7 @@
         },
         {
             "id": 50,
+            "release_date": "1994-11-18",
             "title": "Svaneprinsessen",
             "categories": [
                 "Børn"
@@ -360,6 +410,7 @@
         },
         {
             "id": 51,
+            "release_date": "2006-12-13",
             "title": "Arthur og minimoyserne",
             "categories": [
                 "Børn"
@@ -367,6 +418,7 @@
         },
         {
             "id": 52,
+            "release_date": "2009-11-26",
             "title": "Arthur 2 maltazars hævn",
             "categories": [
                 "Børn"
@@ -374,6 +426,7 @@
         },
         {
             "id": 53,
+            "release_date": "2010-08-22",
             "title": "Arthur 3 de to verdener",
             "categories": [
                 "Børn"
@@ -381,6 +434,7 @@
         },
         {
             "id": 54,
+            "release_date": "",
             "title": "Radiserne forelskelse",
             "categories": [
                 "Børn"
@@ -388,6 +442,7 @@
         },
         {
             "id": 55,
+            "release_date": "",
             "title": "Radiserne i skole igen",
             "categories": [
                 "Børn"
@@ -395,6 +450,7 @@
         },
         {
             "id": 56,
+            "release_date": "",
             "title": "Radiserne valentine",
             "categories": [
                 "Børn"
@@ -402,6 +458,7 @@
         },
         {
             "id": 57,
+            "release_date": "",
             "title": "Radiserne du er den bedste Søren brun",
             "categories": [
                 "Børn"
@@ -409,6 +466,7 @@
         },
         {
             "id": 58,
+            "release_date": "",
             "title": "Radiserne you're a good sport charlie brown",
             "categories": [
                 "Børn"
@@ -416,6 +474,7 @@
         },
         {
             "id": 59,
+            "release_date": "",
             "title": "Radiserne Christmas",
             "categories": [
                 "Børn"
@@ -423,6 +482,7 @@
         },
         {
             "id": 60,
+            "release_date": "2015-11-05",
             "title": "Snoopy and charlie brown the movie",
             "categories": [
                 "Børn"
@@ -430,6 +490,7 @@
         },
         {
             "id": 61,
+            "release_date": "2003-06-11",
             "title": "Trillingerne fra Belleville",
             "categories": [
                 "Børn",
@@ -438,6 +499,7 @@
         },
         {
             "id": 62,
+            "release_date": "2011-10-24",
             "title": "Tintin Enhjørningens hemmelighed (3D)",
             "categories": [
                 "Børn",
@@ -446,6 +508,7 @@
         },
         {
             "id": 63,
+            "release_date": "1972-12-13",
             "title": "Tintin og hajsøen",
             "categories": [
                 "Børn",
@@ -454,6 +517,7 @@
         },
         {
             "id": 64,
+            "release_date": "1967-12-20",
             "title": "Asterix og de gæve gallere",
             "categories": [
                 "Børn",
@@ -462,6 +526,7 @@
         },
         {
             "id": 65,
+            "release_date": "1985-03-06",
             "title": "Asterix sejren over Cæsar",
             "categories": [
                 "Børn",
@@ -470,6 +535,7 @@
         },
         {
             "id": 66,
+            "release_date": "1989-10-04",
             "title": "Asterix operation bautasten",
             "categories": [
                 "Børn",
@@ -478,6 +544,7 @@
         },
         {
             "id": 67,
+            "release_date": "1976-06-26",
             "title": "Asterix og obelix indtar rom",
             "categories": [
                 "Børn",
@@ -486,6 +553,7 @@
         },
         {
             "id": 68,
+            "release_date": "2006-04-12",
             "title": "Asterix og vikingerne",
             "categories": [
                 "Børn",
@@ -494,6 +562,7 @@
         },
         {
             "id": 69,
+            "release_date": "1986-12-03",
             "title": "Asterix og briterne",
             "categories": [
                 "Børn",
@@ -502,6 +571,7 @@
         },
         {
             "id": 70,
+            "release_date": "1968-12-19",
             "title": "Asterix og kleopatra",
             "categories": [
                 "Børn",
@@ -510,6 +580,7 @@
         },
         {
             "id": 71,
+            "release_date": "1999-02-03",
             "title": "Asterix & Obelix i kamp mod Cæsar",
             "categories": [
                 "Børn",
@@ -518,6 +589,7 @@
         },
         {
             "id": 72,
+            "release_date": "2002-01-30",
             "title": "Asterix & Obelix Mission Kleopatra",
             "categories": [
                 "Børn",
@@ -526,6 +598,7 @@
         },
         {
             "id": 73,
+            "release_date": "2003-12-18",
             "title": "Peter pan",
             "categories": [
                 "Børn"
@@ -533,6 +606,7 @@
         },
         {
             "id": 74,
+            "release_date": "2002-06-14",
             "title": "Scooby-doo",
             "categories": [
                 "Børn"
@@ -540,6 +614,7 @@
         },
         {
             "id": 75,
+            "release_date": "2004-03-24",
             "title": "Scooby-doo 2 Uhyrerne er løs",
             "categories": [
                 "Børn"
@@ -547,6 +622,7 @@
         },
         {
             "id": 76,
+            "release_date": "1995-02-03",
             "title": "Aberne og det hemmelige våben",
             "categories": [
                 "Børn",
@@ -555,6 +631,7 @@
         },
         {
             "id": 77,
+            "release_date": "1971-03-06",
             "title": "Bennys badekar",
             "categories": [
                 "Børn",
@@ -563,6 +640,7 @@
         },
         {
             "id": 78,
+            "release_date": "2000-02-10",
             "title": "Cirkeline 2 ost og kærlighed",
             "categories": [
                 "Børn",
@@ -571,6 +649,7 @@
         },
         {
             "id": 79,
+            "release_date": "2004-12-10",
             "title": "Cirkeline og verdens mindste superhelt",
             "categories": [
                 "Børn",
@@ -579,6 +658,7 @@
         },
         {
             "id": 80,
+            "release_date": "2002-12-18",
             "title": "Drengen der ville gøre det umulige",
             "categories": [
                 "Børn",
@@ -587,6 +667,7 @@
         },
         {
             "id": 81,
+            "release_date": "1990-07-01",
             "title": "Fuglekrigen i kanøfleskoven",
             "categories": [
                 "Børn",
@@ -595,6 +676,7 @@
         },
         {
             "id": 82,
+            "release_date": "2012-04-16",
             "title": "Gummi T",
             "categories": [
                 "Børn",
@@ -603,6 +685,7 @@
         },
         {
             "id": 83,
+            "release_date": "2018-12-25",
             "title": "Ternet ninja",
             "categories": [
                 "Børn",
@@ -611,6 +694,7 @@
         },
         {
             "id": 84,
+            "release_date": "2021-08-19",
             "title": "Ternet ninja 2",
             "categories": [
                 "Børn",
@@ -619,6 +703,7 @@
         },
         {
             "id": 85,
+            "release_date": "1986-05-12",
             "title": "Valhalla",
             "categories": [
                 "Børn",
@@ -627,6 +712,7 @@
         },
         {
             "id": 86,
+            "release_date": "1977-09-23",
             "title": "Brødrene løvehjerte",
             "categories": [
                 "Svenske Børnefilm"
@@ -634,6 +720,7 @@
         },
         {
             "id": 87,
+            "release_date": "1999-12-25",
             "title": "Peddersen og findus det kattens år",
             "categories": [
                 "Børn",
@@ -642,6 +729,7 @@
         },
         {
             "id": 88,
+            "release_date": "2000-10-27",
             "title": "Fornemt besøg Pedersen og findus på nye eventyr",
             "categories": [
                 "Børn",
@@ -650,6 +738,7 @@
         },
         {
             "id": 89,
+            "release_date": "2005-11-25",
             "title": "Peddersen og findus 3 nissemaskinen",
             "categories": [
                 "Børn",
@@ -658,6 +747,7 @@
         },
         {
             "id": 90,
+            "release_date": "2009-03-13",
             "title": "Peddersen og findus glemligheder",
             "categories": [
                 "Børn",
@@ -666,6 +756,7 @@
         },
         {
             "id": 91,
+            "release_date": "",
             "title": "Pippi 1",
             "categories": [
                 "Børn",
@@ -674,6 +765,7 @@
         },
         {
             "id": 92,
+            "release_date": "",
             "title": "Pippi 2",
             "categories": [
                 "Børn",
@@ -682,6 +774,7 @@
         },
         {
             "id": 93,
+            "release_date": "",
             "title": "Pippi 3",
             "categories": [
                 "Børn",
@@ -690,6 +783,7 @@
         },
         {
             "id": 94,
+            "release_date": "",
             "title": "Pippi 4",
             "categories": [
                 "Børn",
@@ -698,6 +792,7 @@
         },
         {
             "id": 95,
+            "release_date": "",
             "title": "Pippi 5",
             "categories": [
                 "Børn",
@@ -706,6 +801,7 @@
         },
         {
             "id": 96,
+            "release_date": "",
             "title": "Pippi 6",
             "categories": [
                 "Børn",
@@ -714,6 +810,7 @@
         },
         {
             "id": 97,
+            "release_date": "1995-10-30",
             "title": "Toy story",
             "categories": [
                 "Børn",
@@ -722,6 +819,7 @@
         },
         {
             "id": 98,
+            "release_date": "1999-10-30",
             "title": "Toy story 2",
             "categories": [
                 "Børn",
@@ -730,6 +828,7 @@
         },
         {
             "id": 99,
+            "release_date": "2010-06-16",
             "title": "Toy story 3",
             "categories": [
                 "Børn",
@@ -738,6 +837,7 @@
         },
         {
             "id": 100,
+            "release_date": "2001-11-01",
             "title": "Monsters inc",
             "categories": [
                 "Børn",
@@ -746,6 +846,7 @@
         },
         {
             "id": 101,
+            "release_date": "2013-06-19",
             "title": "Monsters University",
             "categories": [
                 "Børn",
@@ -754,6 +855,7 @@
         },
         {
             "id": 102,
+            "release_date": "1998-11-25",
             "title": "Græsrødderne",
             "categories": [
                 "Børn",
@@ -762,6 +864,7 @@
         },
         {
             "id": 103,
+            "release_date": "2007-06-21",
             "title": "Ratatouille",
             "categories": [
                 "Børn",
@@ -770,6 +873,7 @@
         },
         {
             "id": 104,
+            "release_date": "2006-06-08",
             "title": "Biler",
             "categories": [
                 "Børn",
@@ -778,6 +882,7 @@
         },
         {
             "id": 105,
+            "release_date": "2011-06-11",
             "title": "Biler 2",
             "categories": [
                 "Børn",
@@ -786,6 +891,7 @@
         },
         {
             "id": 106,
+            "release_date": "2008-06-22",
             "title": "Wall-E",
             "categories": [
                 "Børn",
@@ -794,6 +900,7 @@
         },
         {
             "id": 107,
+            "release_date": "2004-10-27",
             "title": "De Utrolige",
             "categories": [
                 "Børn",
@@ -802,6 +909,7 @@
         },
         {
             "id": 108,
+            "release_date": "2009-05-28",
             "title": "Op",
             "categories": [
                 "Børn",
@@ -810,6 +918,7 @@
         },
         {
             "id": 109,
+            "release_date": "2012-06-21",
             "title": "Modig",
             "categories": [
                 "Børn",
@@ -818,6 +927,7 @@
         },
         {
             "id": 110,
+            "release_date": "2015-11-14",
             "title": "Den gode dinosaur",
             "categories": [
                 "Børn",
@@ -826,6 +936,7 @@
         },
         {
             "id": 111,
+            "release_date": "2015-06-17",
             "title": "Inderst inde",
             "categories": [
                 "Børn",
@@ -834,6 +945,7 @@
         },
         {
             "id": 112,
+            "release_date": "2003-05-30",
             "title": "Find nemo",
             "categories": [
                 "Børn",
@@ -842,6 +954,7 @@
         },
         {
             "id": 113,
+            "release_date": "2016-06-16",
             "title": "Find dory",
             "categories": [
                 "Børn",
@@ -850,6 +963,7 @@
         },
         {
             "id": 114,
+            "release_date": "1990-04-06",
             "title": "Cry baby",
             "categories": [
                 "Johnny depp"
@@ -857,6 +971,7 @@
         },
         {
             "id": 115,
+            "release_date": "1990-12-07",
             "title": "Edward Saksehånd",
             "categories": [
                 "Johnny depp"
@@ -864,6 +979,7 @@
         },
         {
             "id": 116,
+            "release_date": "1993-04-16",
             "title": "Benny & joon",
             "categories": [
                 "Johnny depp"
@@ -871,6 +987,7 @@
         },
         {
             "id": 117,
+            "release_date": "1993-12-17",
             "title": "Hva så gilbert grape",
             "categories": [
                 "Johnny depp"
@@ -878,6 +995,7 @@
         },
         {
             "id": 118,
+            "release_date": "1994-10-12",
             "title": "Don Juan DeMarco",
             "categories": [
                 "Johnny depp"
@@ -885,6 +1003,7 @@
         },
         {
             "id": 119,
+            "release_date": "1994-09-28",
             "title": "Ed wood",
             "categories": [
                 "Johnny depp"
@@ -892,6 +1011,7 @@
         },
         {
             "id": 120,
+            "release_date": "1995-12-23",
             "title": "Dead man",
             "categories": [
                 "Johnny depp"
@@ -899,6 +1019,7 @@
         },
         {
             "id": 121,
+            "release_date": "1995-11-22",
             "title": "Nick of time",
             "categories": [
                 "Johnny depp"
@@ -906,6 +1027,7 @@
         },
         {
             "id": 122,
+            "release_date": "1997-02-27",
             "title": "Donnie brasco",
             "categories": [
                 "Johnny depp"
@@ -913,6 +1035,7 @@
         },
         {
             "id": 123,
+            "release_date": "",
             "title": "Fear of loathing in las vegas",
             "categories": [
                 "Johnny depp"
@@ -920,6 +1043,7 @@
         },
         {
             "id": 124,
+            "release_date": "1999-08-25",
             "title": "The ninth gate",
             "categories": [
                 "Johnny depp"
@@ -927,6 +1051,7 @@
         },
         {
             "id": 125,
+            "release_date": "1999-11-19",
             "title": "Sleepy hollow",
             "categories": [
                 "Johnny depp"
@@ -934,6 +1059,7 @@
         },
         {
             "id": 126,
+            "release_date": "2000-12-22",
             "title": "Chocolat",
             "categories": [
                 "Johnny depp"
@@ -941,6 +1067,7 @@
         },
         {
             "id": 127,
+            "release_date": "2001-04-04",
             "title": "Blow",
             "categories": [
                 "Johnny depp"
@@ -948,6 +1075,7 @@
         },
         {
             "id": 128,
+            "release_date": "2001-02-08",
             "title": "From hell",
             "categories": [
                 "Johnny depp"
@@ -955,6 +1083,7 @@
         },
         {
             "id": 129,
+            "release_date": "2003-09-11",
             "title": "Once upon a time in Mexico",
             "categories": [
                 "Johnny depp"
@@ -962,6 +1091,7 @@
         },
         {
             "id": 130,
+            "release_date": "2004-03-12",
             "title": "Secret window",
             "categories": [
                 "Johnny depp"
@@ -969,6 +1099,7 @@
         },
         {
             "id": 131,
+            "release_date": "2004-10-17",
             "title": "Finding neverland",
             "categories": [
                 "Johnny depp"
@@ -976,6 +1107,7 @@
         },
         {
             "id": 132,
+            "release_date": "2004-09-16",
             "title": "The libertine",
             "categories": [
                 "Johnny depp"
@@ -983,6 +1115,7 @@
         },
         {
             "id": 133,
+            "release_date": "2007-12-20",
             "title": "Sweeny todd the demon barber of Fleet Street",
             "categories": [
                 "Johnny depp"
@@ -990,6 +1123,7 @@
         },
         {
             "id": 134,
+            "release_date": "2009-07-01",
             "title": "Public enemies",
             "categories": [
                 "Johnny depp"
@@ -997,6 +1131,7 @@
         },
         {
             "id": 135,
+            "release_date": "2010-03-03",
             "title": "Alice i eventyrland",
             "categories": [
                 "Johnny depp"
@@ -1004,6 +1139,7 @@
         },
         {
             "id": 136,
+            "release_date": "2010-12-08",
             "title": "The tourist",
             "categories": [
                 "Johnny depp"
@@ -1011,6 +1147,7 @@
         },
         {
             "id": 137,
+            "release_date": "2011-03-02",
             "title": "Rango",
             "categories": [
                 "Johnny depp"
@@ -1018,6 +1155,7 @@
         },
         {
             "id": 138,
+            "release_date": "2012-05-09",
             "title": "Dark shadows",
             "categories": [
                 "Johnny depp"
@@ -1025,6 +1163,7 @@
         },
         {
             "id": 139,
+            "release_date": "",
             "title": "The lone ranger",
             "categories": [
                 "Johnny depp"
@@ -1032,6 +1171,7 @@
         },
         {
             "id": 140,
+            "release_date": "2014-04-16",
             "title": "Transcendence",
             "categories": [
                 "Johnny depp"
@@ -1039,6 +1179,7 @@
         },
         {
             "id": 141,
+            "release_date": "",
             "title": "Mordecai",
             "categories": [
                 "Johnny depp"
@@ -1046,6 +1187,7 @@
         },
         {
             "id": 142,
+            "release_date": "2018-05-17",
             "title": "Richard says goodbye",
             "categories": [
                 "Johnny depp"
@@ -1053,6 +1195,7 @@
         },
         {
             "id": 143,
+            "release_date": "2010-11-23",
             "title": "Burlesque",
             "categories": [
                 "Komedie",
@@ -1061,6 +1204,7 @@
         },
         {
             "id": 144,
+            "release_date": "2010-11-23",
             "title": "Click",
             "categories": [
                 "Komedie",
@@ -1069,6 +1213,7 @@
         },
         {
             "id": 145,
+            "release_date": "1989-07-21",
             "title": "da Harry mødte sally",
             "categories": [
                 "Komedie"
@@ -1076,6 +1221,7 @@
         },
         {
             "id": 146,
+            "release_date": "2009-12-23",
             "title": "Det indviklet",
             "categories": [
                 "Komedie",
@@ -1084,6 +1230,7 @@
         },
         {
             "id": 147,
+            "release_date": "2006-06-29",
             "title": "The devil wears prada",
             "categories": [
                 "Komedie"
@@ -1091,6 +1238,7 @@
         },
         {
             "id": 148,
+            "release_date": "2008-04-17",
             "title": "Droppet af sarah marshall",
             "categories": [
                 "Komedie",
@@ -1099,6 +1247,7 @@
         },
         {
             "id": 149,
+            "release_date": "2010-09-16",
             "title": "EasyA",
             "categories": [
                 "Komedie",
@@ -1107,6 +1256,7 @@
         },
         {
             "id": 150,
+            "release_date": "2007-02-09",
             "title": "Et sikkert hit",
             "categories": [
                 "Komedie",
@@ -1115,6 +1265,7 @@
         },
         {
             "id": 151,
+            "release_date": "1993-02-11",
             "title": "En ny dag truer",
             "categories": [
                 "Komedie",
@@ -1123,6 +1274,7 @@
         },
         {
             "id": 152,
+            "release_date": "2013-09-18",
             "title": "Enough said",
             "categories": [
                 "Komedie",
@@ -1131,6 +1283,7 @@
         },
         {
             "id": 153,
+            "release_date": "1978-07-07",
             "title": "Grease er ordet",
             "categories": [
                 "Komedie",
@@ -1139,6 +1292,7 @@
         },
         {
             "id": 154,
+            "release_date": "2010-06-24",
             "title": "Grown ups",
             "categories": [
                 "Komedie"
@@ -1146,6 +1300,7 @@
         },
         {
             "id": 155,
+            "release_date": "2006-12-08",
             "title": "The holiday",
             "categories": [
                 "Komedie",
@@ -1154,6 +1309,7 @@
         },
         {
             "id": 156,
+            "release_date": "2010-10-08",
             "title": "It's kind of a funny story",
             "categories": [
                 "Komedie",
@@ -1162,6 +1318,7 @@
         },
         {
             "id": 157,
+            "release_date": "2007-12-05",
             "title": "Juno",
             "categories": [
                 "Komedie",
@@ -1170,6 +1327,7 @@
         },
         {
             "id": 158,
+            "release_date": "2010-10-02",
             "title": "Life as we know it",
             "categories": [
                 "Komedie",
@@ -1178,6 +1336,7 @@
         },
         {
             "id": 159,
+            "release_date": "2001-10-25",
             "title": "Life as a house",
             "categories": [
                 "Komedie",
@@ -1186,6 +1345,7 @@
         },
         {
             "id": 160,
+            "release_date": "2002-04-19",
             "title": "My big fat greek wedding",
             "categories": [
                 "Komedie",
@@ -1194,6 +1354,7 @@
         },
         {
             "id": 161,
+            "release_date": "2008-10-03",
             "title": "Nick and Norahs Infinite Playlist",
             "categories": [
                 "Komedie",
@@ -1202,6 +1363,7 @@
         },
         {
             "id": 162,
+            "release_date": "2011-01-21",
             "title": "No strings attached",
             "categories": [
                 "Komedie",
@@ -1210,6 +1372,7 @@
         },
         {
             "id": 163,
+            "release_date": "2007-02-08",
             "title": "Norbit",
             "categories": [
                 "Komedie",
@@ -1218,6 +1381,7 @@
         },
         {
             "id": 164,
+            "release_date": "2003-12-12",
             "title": "Når du mindst venter det",
             "categories": [
                 "Komedie",
@@ -1226,6 +1390,7 @@
         },
         {
             "id": 165,
+            "release_date": "2009-09-19",
             "title": "Parterapi I paradis",
             "categories": [
                 "Komedie",
@@ -1234,6 +1399,7 @@
         },
         {
             "id": 166,
+            "release_date": "1994-02-18",
             "title": "Reality bites",
             "categories": [
                 "Komedie",
@@ -1242,6 +1408,7 @@
         },
         {
             "id": 167,
+            "release_date": "2011-03-02",
             "title": "Samme dag næste år",
             "categories": [
                 "Komedie",
@@ -1250,6 +1417,7 @@
         },
         {
             "id": 168,
+            "release_date": "2014-07-17",
             "title": "Sex tape",
             "categories": [
                 "Komedie",
@@ -1258,6 +1426,7 @@
         },
         {
             "id": 169,
+            "release_date": "2007-12-21",
             "title": "St. Trinians lærernes skræk",
             "categories": [
                 "Komedie",
@@ -1266,6 +1435,7 @@
         },
         {
             "id": 170,
+            "release_date": "2006-09-13",
             "title": "Starter for 10",
             "categories": [
                 "Komedie",
@@ -1274,6 +1444,7 @@
         },
         {
             "id": 171,
+            "release_date": "1999-03-30",
             "title": "10 things I hate about you",
             "categories": [
                 "Komedie",
@@ -1282,6 +1453,7 @@
         },
         {
             "id": 172,
+            "release_date": "2008-01-10",
             "title": "27 bryllupper",
             "categories": [
                 "Komedie",
@@ -1290,6 +1462,7 @@
         },
         {
             "id": 173,
+            "release_date": "2003-12-25",
             "title": "Big fish",
             "categories": [
                 "Komedie",
@@ -1298,6 +1471,7 @@
         },
         {
             "id": 174,
+            "release_date": "2017-03-30",
             "title": "Big sick",
             "categories": [
                 "Komedie",
@@ -1306,6 +1480,7 @@
         },
         {
             "id": 175,
+            "release_date": "2013-04-25",
             "title": "The Big wedding",
             "categories": [
                 "Komedie",
@@ -1314,6 +1489,7 @@
         },
         {
             "id": 176,
+            "release_date": "2006-06-01",
             "title": "The break up",
             "categories": [
                 "Komedie",
@@ -1322,6 +1498,7 @@
         },
         {
             "id": 177,
+            "release_date": "2009-01-09",
             "title": "Bride wars",
             "categories": [
                 "Komedie",
@@ -1330,6 +1507,7 @@
         },
         {
             "id": 178,
+            "release_date": "2011-05-13",
             "title": "Bridesmaids",
             "categories": [
                 "Komedie",
@@ -1338,6 +1516,7 @@
         },
         {
             "id": 179,
+            "release_date": "2001-04-13",
             "title": "Bridget Jones dagbog",
             "categories": [
                 "Komedie",
@@ -1346,6 +1525,7 @@
         },
         {
             "id": 180,
+            "release_date": "2004-11-10",
             "title": "Bridget Jones På randen af fornuft",
             "categories": [
                 "Komedie",
@@ -1354,6 +1534,7 @@
         },
         {
             "id": 181,
+            "release_date": "2016-09-14",
             "title": "Bridget Jones Baby",
             "categories": [
                 "Komedie",
@@ -1362,6 +1543,7 @@
         },
         {
             "id": 182,
+            "release_date": "2015-07-14",
             "title": "Ant-man",
             "categories": [
                 "Marvel"
@@ -1369,6 +1551,7 @@
         },
         {
             "id": 183,
+            "release_date": "2018-07-04",
             "title": "Ant-Man and the Wasp",
             "categories": [
                 "Marvel"
@@ -1376,6 +1559,7 @@
         },
         {
             "id": 184,
+            "release_date": "2024-05-31",
             "title": "Avengers",
             "categories": [
                 "Marvel"
@@ -1383,6 +1567,7 @@
         },
         {
             "id": 185,
+            "release_date": "2015-04-22",
             "title": "Avengers age of ultron",
             "categories": [
                 "Marvel"
@@ -1390,6 +1575,7 @@
         },
         {
             "id": 186,
+            "release_date": "",
             "title": "Avengers civil war",
             "categories": [
                 "Marvel"
@@ -1397,6 +1583,7 @@
         },
         {
             "id": 187,
+            "release_date": "2018-04-25",
             "title": "Avengers Infinity War",
             "categories": [
                 "Marvel"
@@ -1404,6 +1591,7 @@
         },
         {
             "id": 188,
+            "release_date": "2019-04-24",
             "title": "Avengers endgame",
             "categories": [
                 "Marvel"
@@ -1411,6 +1599,7 @@
         },
         {
             "id": 189,
+            "release_date": "2016-02-09",
             "title": "Deadpool",
             "categories": [
                 "Marvel"
@@ -1418,6 +1607,7 @@
         },
         {
             "id": 190,
+            "release_date": "2016-10-25",
             "title": "Doctor strange",
             "categories": [
                 "Marvel"
@@ -1425,6 +1615,7 @@
         },
         {
             "id": 191,
+            "release_date": "2022-05-04",
             "title": "Doctor Strange in the Multiverse of Madness",
             "categories": [
                 "Marvel"
@@ -1432,6 +1623,7 @@
         },
         {
             "id": 192,
+            "release_date": "2007-01-15",
             "title": "Ghost rider",
             "categories": [
                 "Marvel"
@@ -1439,6 +1631,7 @@
         },
         {
             "id": 193,
+            "release_date": "2003-11-13",
             "title": "Ghost rider 2",
             "categories": [
                 "Marvel"
@@ -1446,6 +1639,7 @@
         },
         {
             "id": 194,
+            "release_date": "2023-05-03",
             "title": "Guardians of the galaxy",
             "categories": [
                 "Marvel"
@@ -1453,6 +1647,7 @@
         },
         {
             "id": 195,
+            "release_date": "2017-04-19",
             "title": "Guardians of the galaxy Vol. 2",
             "categories": [
                 "Marvel"
@@ -1460,6 +1655,7 @@
         },
         {
             "id": 196,
+            "release_date": "2008-02-09",
             "title": "Iron man metal",
             "categories": [
                 "Marvel"
@@ -1467,6 +1663,7 @@
         },
         {
             "id": 197,
+            "release_date": "2008-04-30",
             "title": "Iron man",
             "categories": [
                 "Marvel"
@@ -1474,6 +1671,7 @@
         },
         {
             "id": 198,
+            "release_date": "2010-04-28",
             "title": "Iron man 2",
             "categories": [
                 "Marvel"
@@ -1481,6 +1679,7 @@
         },
         {
             "id": 199,
+            "release_date": "2013-04-18",
             "title": "Iron man 3",
             "categories": [
                 "Marvel"
@@ -1488,6 +1687,7 @@
         },
         {
             "id": 200,
+            "release_date": "2011-04-21",
             "title": "Thor",
             "categories": [
                 "Marvel"
@@ -1495,6 +1695,7 @@
         },
         {
             "id": 201,
+            "release_date": "2002-05-01",
             "title": "Spiderman",
             "categories": [
                 "Marvel"
@@ -1502,6 +1703,7 @@
         },
         {
             "id": 202,
+            "release_date": "2004-06-25",
             "title": "Spiderman 2",
             "categories": [
                 "Marvel"
@@ -1509,6 +1711,7 @@
         },
         {
             "id": 203,
+            "release_date": "2007-05-01",
             "title": "Spiderman 3",
             "categories": [
                 "Marvel"
@@ -1516,6 +1719,7 @@
         },
         {
             "id": 204,
+            "release_date": "2012-06-23",
             "title": "The Amazing Spiderman",
             "categories": [
                 "Marvel"
@@ -1523,6 +1727,7 @@
         },
         {
             "id": 205,
+            "release_date": "2014-04-16",
             "title": "The Amazing Spiderman 2",
             "categories": [
                 "Marvel"
@@ -1530,6 +1735,7 @@
         },
         {
             "id": 206,
+            "release_date": "2017-07-05",
             "title": "Spiderman homecoming",
             "categories": [
                 "Marvel"
@@ -1537,6 +1743,7 @@
         },
         {
             "id": 207,
+            "release_date": "2019-06-28",
             "title": "Spiderman Far from home",
             "categories": [
                 "Marvel"
@@ -1544,6 +1751,7 @@
         },
         {
             "id": 208,
+            "release_date": "2021-12-15",
             "title": "Spiderman No way home",
             "categories": [
                 "Marvel"
@@ -1551,6 +1759,7 @@
         },
         {
             "id": 209,
+            "release_date": "2018-12-06",
             "title": "Spiderman into the spiderverse",
             "categories": [
                 "Marvel"
@@ -1558,6 +1767,7 @@
         },
         {
             "id": 210,
+            "release_date": "2023-05-31",
             "title": "Spiderman across the spider-verse",
             "categories": [
                 "Marvel"
@@ -1565,6 +1775,7 @@
         },
         {
             "id": 211,
+            "release_date": "2018-09-28",
             "title": "Venom",
             "categories": [
                 "Marvel"
@@ -1572,6 +1783,7 @@
         },
         {
             "id": 212,
+            "release_date": "2021-09-30",
             "title": "Venom let there be carnage",
             "categories": [
                 "Marvel"
@@ -1579,6 +1791,7 @@
         },
         {
             "id": 213,
+            "release_date": "2006-05-24",
             "title": "X-men the last stand",
             "categories": [
                 "Marvel"
@@ -1586,6 +1799,7 @@
         },
         {
             "id": 214,
+            "release_date": "2012-06-05",
             "title": "X-men First Class",
             "categories": [
                 "Marvel"
@@ -1593,6 +1807,7 @@
         },
         {
             "id": 215,
+            "release_date": "",
             "title": "Bladerunner 2049",
             "categories": [
                 "Science fiction"
@@ -1600,6 +1815,7 @@
         },
         {
             "id": 216,
+            "release_date": "2010-01-14",
             "title": "The book of eli",
             "categories": [
                 "Science fiction",
@@ -1608,6 +1824,7 @@
         },
         {
             "id": 217,
+            "release_date": "2010-09-24",
             "title": "Buried",
             "categories": [
                 "Drama"
@@ -1615,6 +1832,7 @@
         },
         {
             "id": 218,
+            "release_date": "2015-03-04",
             "title": "Chappie",
             "categories": [
                 "Science fiction"
@@ -1622,6 +1840,7 @@
         },
         {
             "id": 219,
+            "release_date": "2012-12-25",
             "title": "Django unchained",
             "categories": [
                 "Action"
@@ -1629,6 +1848,7 @@
         },
         {
             "id": 220,
+            "release_date": "2014-05-27",
             "title": "Edge of tomorrow",
             "categories": [
                 "Science fiction"
@@ -1636,6 +1856,7 @@
         },
         {
             "id": 221,
+            "release_date": "2013-08-07",
             "title": "Elysium",
             "categories": [
                 "Science fiction"
@@ -1643,6 +1864,7 @@
         },
         {
             "id": 222,
+            "release_date": "1990-08-10",
             "title": "Flatliners",
             "categories": [
                 "Drama"
@@ -1650,6 +1872,7 @@
         },
         {
             "id": 223,
+            "release_date": "2010-07-15",
             "title": "Inception",
             "categories": [
                 "Science fiction"
@@ -1657,6 +1880,7 @@
         },
         {
             "id": 224,
+            "release_date": "2014-11-05",
             "title": "Interstellar",
             "categories": [
                 "Science fiction"
@@ -1664,6 +1888,7 @@
         },
         {
             "id": 225,
+            "release_date": "2015-09-30",
             "title": "The Martian",
             "categories": [
                 "Science fiction"
@@ -1671,6 +1896,7 @@
         },
         {
             "id": 226,
+            "release_date": "1997-07-02",
             "title": "Men In Black",
             "categories": [
                 "Science fiction"
@@ -1678,6 +1904,7 @@
         },
         {
             "id": 227,
+            "release_date": "2007-12-17",
             "title": "Men In Black 2",
             "categories": [
                 "Science fiction"
@@ -1685,6 +1912,7 @@
         },
         {
             "id": 228,
+            "release_date": "2012-05-23",
             "title": "Men In Black 3",
             "categories": [
                 "Science fiction"
@@ -1692,6 +1920,7 @@
         },
         {
             "id": 229,
+            "release_date": "2019-06-12",
             "title": "Men In Black International",
             "categories": [
                 "Science fiction"
@@ -1699,6 +1928,7 @@
         },
         {
             "id": 230,
+            "release_date": "2011-09-28",
             "title": "Real steel",
             "categories": [
                 "Science fiction",
@@ -1707,6 +1937,7 @@
         },
         {
             "id": 231,
+            "release_date": "2008-02-18",
             "title": "Taken",
             "categories": [
                 "Action"
@@ -1714,6 +1945,7 @@
         },
         {
             "id": 232,
+            "release_date": "2009-03-04",
             "title": "Watchmen",
             "categories": [
                 "Action",
@@ -1722,6 +1954,7 @@
         },
         {
             "id": 233,
+            "release_date": "2009-10-07",
             "title": "Zombieland",
             "categories": [
                 "Komedie"
@@ -1729,6 +1962,7 @@
         },
         {
             "id": 234,
+            "release_date": "2007-11-28",
             "title": "Awake",
             "categories": [
                 "Drama"
@@ -1736,6 +1970,7 @@
         },
         {
             "id": 235,
+            "release_date": "2009-08-05",
             "title": "District 9",
             "categories": [
                 "Science fiction"
@@ -1743,6 +1978,7 @@
         },
         {
             "id": 236,
+            "release_date": "2019-09-23",
             "title": "Dream girls",
             "categories": [
                 "Komedie",
@@ -1751,6 +1987,7 @@
         },
         {
             "id": 237,
+            "release_date": "1997-05-02",
             "title": "Det Femte element",
             "categories": [
                 "Science fiction"
@@ -1758,6 +1995,7 @@
         },
         {
             "id": 238,
+            "release_date": "2016-07-14",
             "title": "Ghostbusters",
             "categories": [
                 "Komedie"
@@ -1765,6 +2003,7 @@
         },
         {
             "id": 239,
+            "release_date": "2000-05-04",
             "title": "Gladiator",
             "categories": [
                 "Action",
@@ -1773,6 +2012,7 @@
         },
         {
             "id": 240,
+            "release_date": "2003-02-13",
             "title": "Goodbye Lenin",
             "categories": [
                 "Komedie",
@@ -1781,6 +2021,7 @@
         },
         {
             "id": 241,
+            "release_date": "1997-12-05",
             "title": "Good will hunting",
             "categories": [
                 "Komedie",
@@ -1789,6 +2030,7 @@
         },
         {
             "id": 242,
+            "release_date": "2009-02-07",
             "title": "The greatest",
             "categories": [
                 "Drama"
@@ -1796,6 +2038,7 @@
         },
         {
             "id": 243,
+            "release_date": "2008-07-01",
             "title": "Hancock",
             "categories": [
                 "Action"
@@ -1803,6 +2046,7 @@
         },
         {
             "id": 244,
+            "release_date": "2004-04-02",
             "title": "Hellboy",
             "categories": [
                 "Action"
@@ -1810,6 +2054,7 @@
         },
         {
             "id": 245,
+            "release_date": "",
             "title": "Drink from me and live forever",
             "categories": [
                 "Drama"
@@ -1817,6 +2062,7 @@
         },
         {
             "id": 246,
+            "release_date": "2005-12-12",
             "title": "King kong",
             "categories": [
                 "Action"
@@ -1824,6 +2070,7 @@
         },
         {
             "id": 247,
+            "release_date": "2014-12-13",
             "title": "Kingsman The Secret Service",
             "categories": [
                 "Action"
@@ -1831,6 +2078,7 @@
         },
         {
             "id": 248,
+            "release_date": "2011-11-23",
             "title": "My Week with Marilyn",
             "categories": [
                 "Drama",
@@ -1839,6 +2087,7 @@
         },
         {
             "id": 249,
+            "release_date": "2009-09-29",
             "title": "Ninja assassin",
             "categories": [
                 "Action"
@@ -1846,6 +2095,7 @@
         },
         {
             "id": 250,
+            "release_date": "1998-09-18",
             "title": "One true thing",
             "categories": [
                 "Komedie"
@@ -1853,6 +2103,7 @@
         },
         {
             "id": 251,
+            "release_date": "1994-09-10",
             "title": "Pulp fiction",
             "categories": [
                 "Action"
@@ -1860,6 +2111,7 @@
         },
         {
             "id": 252,
+            "release_date": "2008-12-10",
             "title": "The reader",
             "categories": [
                 "Romantik"
@@ -1867,6 +2119,7 @@
         },
         {
             "id": 253,
+            "release_date": "2010-03-19",
             "title": "The runaways",
             "categories": [
                 "Komedie"
@@ -1874,6 +2127,7 @@
         },
         {
             "id": 254,
+            "release_date": "2010-10-01",
             "title": "The social network",
             "categories": [
                 "Drama"
@@ -1881,6 +2135,7 @@
         },
         {
             "id": 255,
+            "release_date": "2005-06-28",
             "title": "War of the worlds",
             "categories": [
                 "Action",
@@ -1889,6 +2144,7 @@
         },
         {
             "id": 256,
+            "release_date": "2010-07-16",
             "title": "Arriettys hemmelige verden",
             "categories": [
                 "Anime"
@@ -1896,6 +2152,7 @@
         },
         {
             "id": 257,
+            "release_date": "2001-07-20",
             "title": "Chihiro og heksene",
             "categories": [
                 "Anime"
@@ -1903,6 +2160,7 @@
         },
         {
             "id": 258,
+            "release_date": "2004-09-09",
             "title": "Det levende slot",
             "categories": [
                 "Anime"
@@ -1910,6 +2168,7 @@
         },
         {
             "id": 259,
+            "release_date": "2005-11-01",
             "title": "Grave of the fireflies",
             "categories": [
                 "Anime"
@@ -1917,6 +2176,7 @@
         },
         {
             "id": 260,
+            "release_date": "1992-07-18",
             "title": "Porco rosso",
             "categories": [
                 "Anime"
@@ -1924,6 +2184,7 @@
         },
         {
             "id": 261,
+            "release_date": "1997-07-12",
             "title": "Prinsesse mononoke",
             "categories": [
                 "Anime"
@@ -1931,6 +2192,7 @@
         },
         {
             "id": 262,
+            "release_date": "1989-07-29",
             "title": "Kiki den lille heks",
             "categories": [
                 "Anime"
@@ -1938,6 +2200,7 @@
         },
         {
             "id": 263,
+            "release_date": "1986-08-02",
             "title": "Laputa slottet i himlen",
             "categories": [
                 "Anime"
@@ -1945,6 +2208,7 @@
         },
         {
             "id": 264,
+            "release_date": "2014-07-19",
             "title": "Marnie min hemmelige ven",
             "categories": [
                 "Anime"
@@ -1952,6 +2216,7 @@
         },
         {
             "id": 265,
+            "release_date": "1988-04-16",
             "title": "Min nabo Totoro",
             "categories": [
                 "Anime"
@@ -1959,6 +2224,7 @@
         },
         {
             "id": 266,
+            "release_date": "1991-07-20",
             "title": "Minder fra i går",
             "categories": [
                 "Anime"
@@ -1966,6 +2232,7 @@
         },
         {
             "id": 267,
+            "release_date": "1999-07-17",
             "title": "My neighbors the yamadas",
             "categories": [
                 "Anime"
@@ -1973,6 +2240,7 @@
         },
         {
             "id": 268,
+            "release_date": "1984-03-11",
             "title": "Nausicaä of the Valley of the Wind",
             "categories": [
                 "Anime"
@@ -1980,6 +2248,7 @@
         },
         {
             "id": 269,
+            "release_date": "2013-07-20",
             "title": "Når vinden rejser sig",
             "categories": [
                 "Anime"
@@ -1987,6 +2256,7 @@
         },
         {
             "id": 270,
+            "release_date": "2011-07-16",
             "title": "Oppe på valmuebakken",
             "categories": [
                 "Anime"
@@ -1994,6 +2264,7 @@
         },
         {
             "id": 271,
+            "release_date": "2008-07-19",
             "title": "Ponyo på klippen ved havet",
             "categories": [
                 "Anime"
@@ -2001,6 +2272,7 @@
         },
         {
             "id": 272,
+            "release_date": "2016-09-17",
             "title": "A silent voice",
             "categories": [
                 "Anime"
@@ -2008,6 +2280,7 @@
         },
         {
             "id": 273,
+            "release_date": "2015-07-11",
             "title": "The boy and the beast",
             "categories": [
                 "Anime"
@@ -2015,6 +2288,7 @@
         },
         {
             "id": 274,
+            "release_date": "",
             "title": "Death note movie part 1",
             "categories": [
                 "Anime"
@@ -2022,6 +2296,7 @@
         },
         {
             "id": 275,
+            "release_date": "2018-11-02",
             "title": "Doukyuusei",
             "categories": [
                 "Anime"
@@ -2029,6 +2304,7 @@
         },
         {
             "id": 276,
+            "release_date": "2002-07-26",
             "title": "Austin powers",
             "categories": [
                 "Komedie"
@@ -2036,6 +2312,7 @@
         },
         {
             "id": 277,
+            "release_date": "1999-06-08",
             "title": "Austin Powers The Spy Who Shagged Me",
             "categories": [
                 "Komedie"
@@ -2043,6 +2320,7 @@
         },
         {
             "id": 278,
+            "release_date": "2002-07-26",
             "title": "Austin Powers Goldmember",
             "categories": [
                 "Komedie"
@@ -2050,6 +2328,7 @@
         },
         {
             "id": 279,
+            "release_date": "1985-07-03",
             "title": "Back to the future",
             "categories": [
                 "Science fiction"
@@ -2057,6 +2336,7 @@
         },
         {
             "id": 280,
+            "release_date": "1989-11-22",
             "title": "Back to the future part 2",
             "categories": [
                 "Science fiction"
@@ -2064,6 +2344,7 @@
         },
         {
             "id": 281,
+            "release_date": "1990-05-25",
             "title": "Back to the future part 3",
             "categories": [
                 "Science fiction"
@@ -2071,6 +2352,7 @@
         },
         {
             "id": 282,
+            "release_date": "2005-06-10",
             "title": "Batman begins",
             "categories": [
                 "Action"
@@ -2078,6 +2360,7 @@
         },
         {
             "id": 283,
+            "release_date": "2013-10-08",
             "title": "Batman the dark knight",
             "categories": [
                 "Action"
@@ -2085,6 +2368,7 @@
         },
         {
             "id": 284,
+            "release_date": "2012-07-17",
             "title": "Batman the dark knight rises",
             "categories": [
                 "Action"
@@ -2092,6 +2376,7 @@
         },
         {
             "id": 285,
+            "release_date": "2013-02-13",
             "title": "Beautiful creatures",
             "categories": [
                 "Romantik",
@@ -2100,6 +2385,7 @@
         },
         {
             "id": 286,
+            "release_date": "2002-06-14",
             "title": "The bourne identity",
             "categories": [
                 "Action"
@@ -2107,6 +2393,7 @@
         },
         {
             "id": 287,
+            "release_date": "2019-11-14",
             "title": "Charlie's angels",
             "categories": [
                 "Action"
@@ -2114,6 +2401,7 @@
         },
         {
             "id": 288,
+            "release_date": "2003-06-27",
             "title": "Charlie's angels uden hæmninger",
             "categories": [
                 "Action"
@@ -2121,6 +2409,7 @@
         },
         {
             "id": 289,
+            "release_date": "2007-12-04",
             "title": "Det gyldne kompas",
             "categories": [
                 "Fantasy"
@@ -2128,6 +2417,7 @@
         },
         {
             "id": 290,
+            "release_date": "2014-03-14",
             "title": "Divergent",
             "categories": [
                 "Action",
@@ -2136,6 +2426,7 @@
         },
         {
             "id": 291,
+            "release_date": "2015-03-18",
             "title": "Insurgent",
             "categories": [
                 "Action",
@@ -2144,6 +2435,7 @@
         },
         {
             "id": 292,
+            "release_date": "2001-11-16",
             "title": "Harry potter og de vises sten",
             "categories": [
                 "Fantasy"
@@ -2151,6 +2443,7 @@
         },
         {
             "id": 293,
+            "release_date": "2002-11-13",
             "title": "Harry potter og hemmelighedernes kammer",
             "categories": [
                 "Fantasy"
@@ -2158,6 +2451,7 @@
         },
         {
             "id": 294,
+            "release_date": "2004-05-31",
             "title": "Harry potter og fangen fra azkaban",
             "categories": [
                 "Fantasy"
@@ -2165,6 +2459,7 @@
         },
         {
             "id": 295,
+            "release_date": "2005-11-16",
             "title": "Harry potter og flammernes pokal",
             "categories": [
                 "Fantasy"
@@ -2172,6 +2467,7 @@
         },
         {
             "id": 296,
+            "release_date": "2007-07-08",
             "title": "Harry potter og fønixordenen",
             "categories": [
                 "Fantasy"
@@ -2179,6 +2475,7 @@
         },
         {
             "id": 297,
+            "release_date": "2010-11-17",
             "title": "Harry potter og dødsregalierne del 1",
             "categories": [
                 "Fantasy"
@@ -2186,6 +2483,7 @@
         },
         {
             "id": 298,
+            "release_date": "2011-07-12",
             "title": "Harry potter og dødsregalierne del 2",
             "categories": [
                 "Fantasy"
@@ -2193,6 +2491,7 @@
         },
         {
             "id": 299,
+            "release_date": "2012-03-12",
             "title": "The Hunger Games",
             "categories": [
                 "Science fiction"
@@ -2200,6 +2499,7 @@
         },
         {
             "id": 300,
+            "release_date": "2013-11-15",
             "title": "The Hunger Games Catching Fire",
             "categories": [
                 "Science fiction"
@@ -2207,6 +2507,7 @@
         },
         {
             "id": 301,
+            "release_date": "2014-11-19",
             "title": "The Hunger Games Mockingjay - del 1",
             "categories": [
                 "Science fiction"
@@ -2214,6 +2515,7 @@
         },
         {
             "id": 302,
+            "release_date": "2014-11-19",
             "title": "The Hunger Games Mockingjay - del 2",
             "categories": [
                 "Science fiction"
@@ -2221,6 +2523,7 @@
         },
         {
             "id": 303,
+            "release_date": "2014-10-22",
             "title": "John Wick",
             "categories": [
                 "Action"
@@ -2228,6 +2531,7 @@
         },
         {
             "id": 304,
+            "release_date": "2017-02-08",
             "title": "John Wick chapter 2",
             "categories": [
                 "Action"
@@ -2235,6 +2539,7 @@
         },
         {
             "id": 305,
+            "release_date": "2019-05-15",
             "title": "John Wick chapter 3 Parabellum",
             "categories": [
                 "Action"
@@ -2242,6 +2547,7 @@
         },
         {
             "id": 306,
+            "release_date": "2023-03-22",
             "title": "John Wick chapter 4",
             "categories": [
                 "Action"
@@ -2249,6 +2555,7 @@
         },
         {
             "id": 307,
+            "release_date": "1999-03-31",
             "title": "The Matrix",
             "categories": [
                 "Science fiction"
@@ -2256,6 +2563,7 @@
         },
         {
             "id": 308,
+            "release_date": "2003-05-15",
             "title": "Matrix reloaded",
             "categories": [
                 "Science fiction"
@@ -2263,6 +2571,7 @@
         },
         {
             "id": 309,
+            "release_date": "2003-11-05",
             "title": "Matrix revolution",
             "categories": [
                 "Science fiction"
@@ -2270,6 +2579,7 @@
         },
         {
             "id": 310,
+            "release_date": "2003-05-09",
             "title": "Animatrix",
             "categories": [
                 "Science fiction"
@@ -2277,6 +2587,7 @@
         },
         {
             "id": 311,
+            "release_date": "2004-08-21",
             "title": "Naruto Ninja clash in the land of snow",
             "categories": [
                 "Anime"
@@ -2284,6 +2595,7 @@
         },
         {
             "id": 312,
+            "release_date": "2005-08-06",
             "title": "Naruto legend of the stone gelel",
             "categories": [
                 "Anime"
@@ -2291,6 +2603,7 @@
         },
         {
             "id": 313,
+            "release_date": "2006-08-05",
             "title": "Naruto guardians of the moon kingdom",
             "categories": [
                 "Anime"
@@ -2298,6 +2611,7 @@
         },
         {
             "id": 314,
+            "release_date": "2007-08-04",
             "title": "Naruto shippuden the movie",
             "categories": [
                 "Anime"
@@ -2305,6 +2619,7 @@
         },
         {
             "id": 315,
+            "release_date": "2008-08-02",
             "title": "Naruto shippuden bonds",
             "categories": [
                 "Anime"
@@ -2312,6 +2627,7 @@
         },
         {
             "id": 316,
+            "release_date": "2009-08-01",
             "title": "Naruto shippuden the will of fire",
             "categories": [
                 "Anime"
@@ -2319,6 +2635,7 @@
         },
         {
             "id": 317,
+            "release_date": "2012-07-28",
             "title": "Naruto Road to ninja",
             "categories": [
                 "Anime"
@@ -2326,6 +2643,7 @@
         },
         {
             "id": 318,
+            "release_date": "2014-12-06",
             "title": "The last naruto the movie",
             "categories": [
                 "Anime"
@@ -2333,6 +2651,7 @@
         },
         {
             "id": 319,
+            "release_date": "1995-11-18",
             "title": "Ghost in the shell",
             "categories": [
                 "Anime"
@@ -2340,6 +2659,7 @@
         },
         {
             "id": 320,
+            "release_date": "2004-03-06",
             "title": "Ghost in the Shell 2 Innocence",
             "categories": [
                 "Anime"
@@ -2347,6 +2667,7 @@
         },
         {
             "id": 321,
+            "release_date": "2006-07-15",
             "title": "The girl who leapt through time",
             "categories": [
                 "Anime"
@@ -2354,6 +2675,7 @@
         },
         {
             "id": 322,
+            "release_date": "2012-11-17",
             "title": "Evangelion 3.33",
             "categories": [
                 "Anime"
@@ -2361,6 +2683,7 @@
         },
         {
             "id": 323,
+            "release_date": "1993-06-05",
             "title": "Ninja scroll",
             "categories": [
                 "Anime"
@@ -2368,6 +2691,7 @@
         },
         {
             "id": 324,
+            "release_date": "1998-02-28",
             "title": "Perfect blue",
             "categories": [
                 "Anime"
@@ -2375,6 +2699,7 @@
         },
         {
             "id": 325,
+            "release_date": "2009-08-01",
             "title": "Summer wars",
             "categories": [
                 "Anime"
@@ -2382,6 +2707,7 @@
         },
         {
             "id": 326,
+            "release_date": "2012-07-21",
             "title": "Wolf children",
             "categories": [
                 "Anime"
@@ -2389,6 +2715,7 @@
         },
         {
             "id": 327,
+            "release_date": "2014-09-10",
             "title": "The maze runner",
             "categories": [
                 "Action"
@@ -2396,6 +2723,7 @@
         },
         {
             "id": 328,
+            "release_date": "2013-08-21",
             "title": "The mortal instruments dæmonernes by",
             "categories": [
                 "Action",
@@ -2404,6 +2732,7 @@
         },
         {
             "id": 329,
+            "release_date": "1974-03-04",
             "title": "Mumien",
             "categories": [
                 "Action"
@@ -2411,6 +2740,7 @@
         },
         {
             "id": 330,
+            "release_date": "2001-05-04",
             "title": "The Mummy Returns",
             "categories": [
                 "Action"
@@ -2418,6 +2748,7 @@
         },
         {
             "id": 331,
+            "release_date": "2003-07-09",
             "title": "Pirates of the Caribbean Den Sorte Forbandelse",
             "categories": [
                 "Action"
@@ -2425,6 +2756,7 @@
         },
         {
             "id": 332,
+            "release_date": "2006-07-06",
             "title": "Pirates of the Caribbean Død Mands Kiste",
             "categories": [
                 "Action"
@@ -2432,6 +2764,7 @@
         },
         {
             "id": 333,
+            "release_date": "2007-05-19",
             "title": "Pirates of the Caribbean Ved Verdens Ende",
             "categories": [
                 "Action"
@@ -2439,6 +2772,7 @@
         },
         {
             "id": 334,
+            "release_date": "2015-03-26",
             "title": "Skammerens datter",
             "categories": [
                 "Action",
@@ -2447,6 +2781,7 @@
         },
         {
             "id": 335,
+            "release_date": "1999-05-19",
             "title": "Star Wars Episode 1 The Phantom Menace",
             "categories": [
                 "Science fiction"
@@ -2454,6 +2789,7 @@
         },
         {
             "id": 336,
+            "release_date": "2002-05-15",
             "title": "Star Wars Episode 2 Attack of the Clones",
             "categories": [
                 "Science fiction"
@@ -2461,6 +2797,7 @@
         },
         {
             "id": 337,
+            "release_date": "2005-05-17",
             "title": "Star Wars Episode 3 Revenge of the Sith",
             "categories": [
                 "Science fiction"
@@ -2468,6 +2805,7 @@
         },
         {
             "id": 338,
+            "release_date": "1977-05-25",
             "title": "Star Wars Episode 4 A new hope",
             "categories": [
                 "Science fiction"
@@ -2475,6 +2813,7 @@
         },
         {
             "id": 339,
+            "release_date": "1980-05-20",
             "title": "Star Wars Episode 5 The Empire Strikes Back",
             "categories": [
                 "Science fiction"
@@ -2482,6 +2821,7 @@
         },
         {
             "id": 340,
+            "release_date": "1983-05-25",
             "title": "Star Wars Episode 6 Return of the Jedi",
             "categories": [
                 "Science fiction"
@@ -2489,6 +2829,7 @@
         },
         {
             "id": 341,
+            "release_date": "2007-06-27",
             "title": "Transformers",
             "categories": [
                 "Science fiction"
@@ -2496,6 +2837,7 @@
         },
         {
             "id": 342,
+            "release_date": "2009-06-19",
             "title": "Transformers revenge of the fallen",
             "categories": [
                 "Science fiction"
@@ -2503,6 +2845,7 @@
         },
         {
             "id": 343,
+            "release_date": "2011-06-28",
             "title": "Transformers dark of the moon",
             "categories": [
                 "Science fiction"
@@ -2510,6 +2853,7 @@
         },
         {
             "id": 344,
+            "release_date": "2008-11-20",
             "title": "Twilight",
             "categories": [
                 "Romantik",
@@ -2518,6 +2862,7 @@
         },
         {
             "id": 345,
+            "release_date": "2009-11-18",
             "title": "The Twilight Saga New Moon",
             "categories": [
                 "Romantik",
@@ -2526,6 +2871,7 @@
         },
         {
             "id": 346,
+            "release_date": "2010-06-23",
             "title": "The Twilight Saga Eclipse",
             "categories": [
                 "Romantik",
@@ -2534,6 +2880,7 @@
         },
         {
             "id": 347,
+            "release_date": "2011-11-16",
             "title": "The Twilight Saga Breaking Dawn del 1",
             "categories": [
                 "Romantik",
@@ -2542,6 +2889,7 @@
         },
         {
             "id": 348,
+            "release_date": "2012-11-13",
             "title": "The Twilight Saga Breaking Dawn del 2",
             "categories": [
                 "Romantik",
@@ -2550,6 +2898,7 @@
         },
         {
             "id": 349,
+            "release_date": "1968-10-11",
             "title": "Olsen banden",
             "categories": [
                 "Dansk"
@@ -2557,6 +2906,7 @@
         },
         {
             "id": 350,
+            "release_date": "1969-10-03",
             "title": "Olsen banden på spanden",
             "categories": [
                 "Dansk"
@@ -2564,6 +2914,7 @@
         },
         {
             "id": 351,
+            "release_date": "1971-10-08",
             "title": "Olsen banden i Jylland",
             "categories": [
                 "Dansk"
@@ -2571,6 +2922,7 @@
         },
         {
             "id": 352,
+            "release_date": "1972-10-06",
             "title": "Olsen bandens store kup",
             "categories": [
                 "Dansk"
@@ -2578,6 +2930,7 @@
         },
         {
             "id": 353,
+            "release_date": "1973-10-05",
             "title": "Olsen banden går amok",
             "categories": [
                 "Dansk"
@@ -2585,6 +2938,7 @@
         },
         {
             "id": 354,
+            "release_date": "1974-10-04",
             "title": "Olsen bandens sidste bedrifter",
             "categories": [
                 "Dansk"
@@ -2592,6 +2946,7 @@
         },
         {
             "id": 355,
+            "release_date": "1975-09-26",
             "title": "Olsen banden på sporet",
             "categories": [
                 "Dansk"
@@ -2599,6 +2954,7 @@
         },
         {
             "id": 356,
+            "release_date": "1976-10-01",
             "title": "Olsen banden ser rødt",
             "categories": [
                 "Dansk"
@@ -2606,6 +2962,7 @@
         },
         {
             "id": 357,
+            "release_date": "1977-09-30",
             "title": "Olsen banden deruda",
             "categories": [
                 "Dansk"
@@ -2613,6 +2970,7 @@
         },
         {
             "id": 358,
+            "release_date": "1978-10-06",
             "title": "Olsen banden går i krig",
             "categories": [
                 "Dansk"
@@ -2620,6 +2978,7 @@
         },
         {
             "id": 359,
+            "release_date": "1979-12-26",
             "title": "Olsen banden overgiver sig aldrig",
             "categories": [
                 "Dansk"
@@ -2627,6 +2986,7 @@
         },
         {
             "id": 360,
+            "release_date": "1981-10-16",
             "title": "Olsen bandens flugt over plankeværket",
             "categories": [
                 "Dansk"
@@ -2634,6 +2994,7 @@
         },
         {
             "id": 361,
+            "release_date": "1981-12-26",
             "title": "Olsen banden over alle bjerge",
             "categories": [
                 "Dansk"
@@ -2641,6 +3002,7 @@
         },
         {
             "id": 362,
+            "release_date": "1998-12-18",
             "title": "Olsen bandens sidste stik",
             "categories": [
                 "Dansk"
@@ -2648,6 +3010,7 @@
         },
         {
             "id": 363,
+            "release_date": "1977-02-18",
             "title": "Alt på et bræt",
             "categories": [
                 "Dansk"
@@ -2655,6 +3018,7 @@
         },
         {
             "id": 364,
+            "release_date": "1960-09-04",
             "title": "Baronessen fra benzintanken",
             "categories": [
                 "Dansk"
@@ -2662,6 +3026,7 @@
         },
         {
             "id": 365,
+            "release_date": "1964-02-14",
             "title": "Majorens oppasser",
             "categories": [
                 "Dansk"
@@ -2669,6 +3034,7 @@
         },
         {
             "id": 366,
+            "release_date": "1975-08-20",
             "title": "Piger i trøjen",
             "categories": [
                 "Dansk"
@@ -2676,6 +3042,7 @@
         },
         {
             "id": 367,
+            "release_date": "1976-10-11",
             "title": "Piger i trøjen 2",
             "categories": [
                 "Dansk"
@@ -2683,6 +3050,7 @@
         },
         {
             "id": 368,
+            "release_date": "1965-11-12",
             "title": "En pige og 39 sømænd",
             "categories": [
                 "Dansk"
@@ -2690,6 +3058,7 @@
         },
         {
             "id": 369,
+            "release_date": "1975-01-01",
             "title": "Familien gyldenkål",
             "categories": [
                 "Dansk"
@@ -2697,6 +3066,7 @@
         },
         {
             "id": 370,
+            "release_date": "1976-12-26",
             "title": "Familien gyldenkål sprænger banken",
             "categories": [
                 "Dansk"
@@ -2704,6 +3074,7 @@
         },
         {
             "id": 371,
+            "release_date": "",
             "title": "Flådens friske fyrer",
             "categories": [
                 "Dansk"
@@ -2711,6 +3082,7 @@
         },
         {
             "id": 372,
+            "release_date": "1960-09-19",
             "title": "Sømand i knibe",
             "categories": [
                 "Dansk"
@@ -2718,6 +3090,7 @@
         },
         {
             "id": 373,
+            "release_date": "1962-08-06",
             "title": "Sømænd og svigermødre",
             "categories": [
                 "Dansk"
@@ -2725,6 +3098,7 @@
         },
         {
             "id": 374,
+            "release_date": "1962-03-23",
             "title": "Han hun dirch og dario",
             "categories": [
                 "Dansk"
@@ -2732,6 +3106,7 @@
         },
         {
             "id": 375,
+            "release_date": "1984-03-09",
             "title": "Midt om natten",
             "categories": [
                 "Dansk"
@@ -2739,6 +3114,7 @@
         },
         {
             "id": 376,
+            "release_date": "1974-05-28",
             "title": "Martha",
             "categories": [
                 "Dansk"
@@ -2746,6 +3122,7 @@
         },
         {
             "id": 377,
+            "release_date": "1966-09-30",
             "title": "Min søsters børn",
             "categories": [
                 "Dansk"
@@ -2753,6 +3130,7 @@
         },
         {
             "id": 378,
+            "release_date": "1967-10-13",
             "title": "Min søsters børn på bryllupsrejse",
             "categories": [
                 "Dansk"
@@ -2760,6 +3138,7 @@
         },
         {
             "id": 379,
+            "release_date": "1968-10-11",
             "title": "Min søsters børn vælter byen",
             "categories": [
                 "Dansk"
@@ -2767,6 +3146,7 @@
         },
         {
             "id": 380,
+            "release_date": "1971-10-15",
             "title": "Min søsters børn når de er værst",
             "categories": [
                 "Dansk"
@@ -2774,6 +3154,7 @@
         },
         {
             "id": 381,
+            "release_date": "1961-07-28",
             "title": "Peters baby",
             "categories": [
                 "Dansk"
@@ -2781,6 +3162,7 @@
         },
         {
             "id": 382,
+            "release_date": "1966-11-25",
             "title": "Pigen og greven",
             "categories": [
                 "Dansk"
@@ -2788,6 +3170,7 @@
         },
         {
             "id": 383,
+            "release_date": "1965-10-15",
             "title": "Pigen og millionæren",
             "categories": [
                 "Dansk"
@@ -2795,6 +3178,7 @@
         },
         {
             "id": 384,
+            "release_date": "1963-02-15",
             "title": "Pigen og pressefotografen",
             "categories": [
                 "Dansk"
@@ -2802,6 +3186,7 @@
         },
         {
             "id": 385,
+            "release_date": "1965-12-21",
             "title": "Slå først frede",
             "categories": [
                 "Dansk"
@@ -2809,6 +3194,7 @@
         },
         {
             "id": 386,
+            "release_date": "1966-06-05",
             "title": "Slap af frede",
             "categories": [
                 "Dansk"
@@ -2816,6 +3202,7 @@
         },
         {
             "id": 387,
+            "release_date": "",
             "title": "Sonja fra saxogade",
             "categories": [
                 "Dansk"
@@ -2823,6 +3210,7 @@
         },
         {
             "id": 388,
+            "release_date": "1961-10-11",
             "title": "Støv på hjernen",
             "categories": [
                 "Dansk"
@@ -2830,6 +3218,7 @@
         },
         {
             "id": 389,
+            "release_date": "1962-09-28",
             "title": "Det støver stadig",
             "categories": [
                 "Dansk"
@@ -2837,6 +3226,7 @@
         },
         {
             "id": 390,
+            "release_date": "1963-12-13",
             "title": "Støv for alle pengene",
             "categories": [
                 "Dansk"
@@ -2844,6 +3234,7 @@
         },
         {
             "id": 391,
+            "release_date": "1965-07-23",
             "title": "Passer passer piger",
             "categories": [
                 "Dansk"
@@ -2851,6 +3242,7 @@
         },
         {
             "id": 392,
+            "release_date": "2012-09-04",
             "title": "Den skaldede frisør",
             "categories": [
                 "Dansk"
@@ -2858,6 +3250,7 @@
         },
         {
             "id": 393,
+            "release_date": "2012-03-01",
             "title": "Hvidsten gruppen",
             "categories": [
                 "Dansk"
@@ -2865,6 +3258,7 @@
         },
         {
             "id": 394,
+            "release_date": "2003-02-07",
             "title": "Midsommer",
             "categories": [
                 "Dansk"
