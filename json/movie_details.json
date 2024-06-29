@@ -546,6 +546,60 @@
         ]
     },
     {
+        "title": "Radiserne forelskelse",
+        "api_id": "",
+        "overview": "",
+        "release_date": "2007",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Radiserne i skole igen",
+        "api_id": "",
+        "overview": "",
+        "release_date": "2007",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Radiserne valentine",
+        "api_id": "",
+        "overview": "",
+        "release_date": "2006",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Radiserne du er den bedste Søren brun",
+        "api_id": "",
+        "overview": "",
+        "release_date": "2007",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Radiserne you're a good sport charlie brown",
+        "api_id": "",
+        "overview": "",
+        "release_date": "2010-08-10",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Radiserne Christmas",
+        "api_id": "",
+        "overview": "",
+        "release_date": "2006-10-25",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
         "title": "Snoopy and charlie brown the movie",
         "api_id": "227973",
         "overview": "'Filmen om Radiserne: Med Nuser og Søren Brun' følger den elskede beatle Nuser på en mission for at finde sin ærkefjende, Den røde baron.\r Samtidig starter der er en ny pige i Søren Bruns klasse, imens han selv forsøger at finde sin plads blandt kammeraterne i skolen.",
@@ -895,6 +949,60 @@
         ]
     },
     {
+        "title": "Pippi 1",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1969-02-08 til 1969-02-22",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Pippi 2",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1969-03-01 til 1969-03-08",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Pippi 3",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1969-03-15 til 1969-03-22",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Pippi 4",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1969-03-29 til 1969-04-05",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Pippi 5",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1969-04-12 til 1969-04-19",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
+        "title": "Pippi 6",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1969-04-26 til 1969-05-03",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
         "title": "Toy story",
         "api_id": "862",
         "overview": "Da Anders til sin fødselsdag får robothelten Buzz Lightyear i gave, skaber det forvirring på børneværelset. Anført af cowboysheriffen Woody har legetøjet indtil da levet under ordnede forhold, men med Buzz' entre føler Woody sin myndighed truet. To sheriffer i et børneværelse er ikke sagen, så Woody vælger en noget ufin måde at slippe af med sin rival. Det andet legetøj er ikke begejstret for træ-sheriffens diktatoriske selvrådighed, så de vender ham ryggen, og snart havner han i samme uheldige situation som Buzz: Langt borte fra værelset, vennerne og ikke mindst Anders.",
@@ -1153,6 +1261,15 @@
         ]
     },
     {
+        "title": "Fear of loathing in las vegas",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1998-11-13",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
         "title": "The ninth gate",
         "api_id": "622",
         "overview": "Dean Corsa lever af at opspore sjældne, gamle bøger for rige samlere. Med da en klient viser ham et særdeles velbevaret eksemplar af \"The Nine Gates And The Kingdom Of Shadow\", tror han simpelthen ikke sine egne øjne. Bogen er en legende i okkulte kredse, skrevet i 1600-tallet, efter sigende i samarbejde med Satan selv. Derfor blev samtlige eksemplarer brændt på bålet - sammen med forfatteren. Skjult i de gamle skrifter findes anvisninger på, hvordan man påkalder De Onde Magter. En satanisk manual. For en mand som Corsa udgør de ældgamle gåder en uimodståelig fristelse. Men rækker man Fanden en lillefinger...",
@@ -1337,6 +1454,15 @@
         ]
     },
     {
+        "title": "The lone ranger",
+        "api_id": "",
+        "overview": "",
+        "release_date": "2013-07-03",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
         "title": "Transcendence",
         "api_id": "157353",
         "overview": "Will Caster forsker i kunstig intelligens. Det er hans mål at skabe en computer, der kombinerer alverdens viden med menneskets evne til at tænke selv. Da Will udsættes for et attentatforsøg, bliver hans hjerne uploaded til hans supercomputer, inden han dør. Will’s drøm om at forene menneske og maskine er gået i opfyldelse - men menneskehedens største mareridt er først lige begyndt.",
@@ -1351,7 +1477,7 @@
         "title": "Mordecai",
         "api_id": "1046438",
         "overview": "",
-        "release_date": "",
+        "release_date": "2015-01-15",
         "production_companies": []
     },
     {
@@ -1836,9 +1962,9 @@
         "title": "Avengers",
         "api_id": "1108354",
         "overview": "",
-        "release_date": "2024-05-31",
+        "release_date": "2012-04-26",
         "production_companies": [
-            "Daïgoro Films"
+            "Marvel Studios"
         ]
     },
     {
@@ -2151,6 +2277,15 @@
         "release_date": "2012-06-05",
         "production_companies": [
             "Sky Movies"
+        ]
+    },
+    {
+        "title": "Bladerunner 2049",
+        "api_id": "",
+        "overview": "",
+        "release_date": "2017-10-05",
+        "production_companies": [
+            ""
         ]
     },
     {
@@ -2495,6 +2630,15 @@
             "Lawrence Gordon Productions",
             "Starlite Films",
             "Partnership Films"
+        ]
+    },
+    {
+        "title": "Interview with the vampire",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1994-12-16",
+        "production_companies": [
+            ""
         ]
     },
     {
@@ -2864,7 +3008,7 @@
         "title": "Doukyuusei",
         "api_id": "737170",
         "overview": "",
-        "release_date": "2018-11-02",
+        "release_date": "2016-02-20",
         "production_companies": []
     },
     {
@@ -3910,6 +4054,15 @@
         ]
     },
     {
+        "title": "Flådens friske fyrer",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1965-09-03",
+        "production_companies": [
+            ""
+        ]
+    },
+    {
         "title": "Sømand i knibe",
         "api_id": "73372",
         "overview": "Kaptajnløjtnant Poul Adam er chef på en motortorpedobåd, en dygtig søofficer, men stiv og reglementstro og genert over for damer. Ved et selskab hos fabrikant Thygesen træffer han dennes datter Eva. Næste dag kommer hun på besøg på skibet, og da der slås alarm og man står til søs, har hun gemt sig i en kahyt. Det medfører diverse forviklinger, ikke mindst da admiralen senere kommer ombord.",
@@ -4044,6 +4197,15 @@
         "release_date": "1966-06-05",
         "production_companies": [
             "Nordisk Film Denmark"
+        ]
+    },
+    {
+        "title": "Sonja fra saxogade",
+        "api_id": "",
+        "overview": "",
+        "release_date": "1968-11-23",
+        "production_companies": [
+            ""
         ]
     },
     {

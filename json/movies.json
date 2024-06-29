@@ -434,7 +434,7 @@
         },
         {
             "id": 54,
-            "release_date": "",
+            "release_date": "2007",
             "title": "Radiserne forelskelse",
             "categories": [
                 "Børn"
@@ -442,7 +442,7 @@
         },
         {
             "id": 55,
-            "release_date": "",
+            "release_date": "2007",
             "title": "Radiserne i skole igen",
             "categories": [
                 "Børn"
@@ -450,7 +450,7 @@
         },
         {
             "id": 56,
-            "release_date": "",
+            "release_date": "2006",
             "title": "Radiserne valentine",
             "categories": [
                 "Børn"
@@ -458,7 +458,7 @@
         },
         {
             "id": 57,
-            "release_date": "",
+            "release_date": "2007",
             "title": "Radiserne du er den bedste Søren brun",
             "categories": [
                 "Børn"
@@ -466,7 +466,7 @@
         },
         {
             "id": 58,
-            "release_date": "",
+            "release_date": "2010-08-10",
             "title": "Radiserne you're a good sport charlie brown",
             "categories": [
                 "Børn"
@@ -474,7 +474,7 @@
         },
         {
             "id": 59,
-            "release_date": "",
+            "release_date": "2006-10-25",
             "title": "Radiserne Christmas",
             "categories": [
                 "Børn"
@@ -562,7 +562,7 @@
         },
         {
             "id": 69,
-            "release_date": "1986-12-03",
+            "release_date": "2012-10-17",
             "title": "Asterix og briterne",
             "categories": [
                 "Børn",
@@ -756,7 +756,7 @@
         },
         {
             "id": 91,
-            "release_date": "",
+            "release_date": "1969-02-08 til 1969-02-22",
             "title": "Pippi 1",
             "categories": [
                 "Børn",
@@ -765,7 +765,7 @@
         },
         {
             "id": 92,
-            "release_date": "",
+            "release_date": "1969-03-01 til 1969-03-08",
             "title": "Pippi 2",
             "categories": [
                 "Børn",
@@ -774,7 +774,7 @@
         },
         {
             "id": 93,
-            "release_date": "",
+            "release_date": "1969-03-15 til 1969-03-22",
             "title": "Pippi 3",
             "categories": [
                 "Børn",
@@ -783,7 +783,7 @@
         },
         {
             "id": 94,
-            "release_date": "",
+            "release_date": "1969-03-29 til 1969-04-05",
             "title": "Pippi 4",
             "categories": [
                 "Børn",
@@ -792,7 +792,7 @@
         },
         {
             "id": 95,
-            "release_date": "",
+            "release_date": "1969-04-12 til 1969-04-19",
             "title": "Pippi 5",
             "categories": [
                 "Børn",
@@ -801,7 +801,7 @@
         },
         {
             "id": 96,
-            "release_date": "",
+            "release_date": "1969-04-26 til 1969-05-03",
             "title": "Pippi 6",
             "categories": [
                 "Børn",
@@ -1035,7 +1035,7 @@
         },
         {
             "id": 123,
-            "release_date": "",
+            "release_date": "1998-11-13",
             "title": "Fear of loathing in las vegas",
             "categories": [
                 "Johnny depp"
@@ -1163,7 +1163,7 @@
         },
         {
             "id": 139,
-            "release_date": "",
+            "release_date": "2013-07-03",
             "title": "The lone ranger",
             "categories": [
                 "Johnny depp"
@@ -1179,7 +1179,7 @@
         },
         {
             "id": 141,
-            "release_date": "",
+            "release_date": "2015-01-15",
             "title": "Mordecai",
             "categories": [
                 "Johnny depp"
@@ -1559,7 +1559,7 @@
         },
         {
             "id": 184,
-            "release_date": "2024-05-31",
+            "release_date": "2012-04-26",
             "title": "Avengers",
             "categories": [
                 "Marvel"
@@ -1807,7 +1807,7 @@
         },
         {
             "id": 215,
-            "release_date": "",
+            "release_date": "2017-10-05",
             "title": "Bladerunner 2049",
             "categories": [
                 "Science fiction"
@@ -2054,8 +2054,8 @@
         },
         {
             "id": 245,
-            "release_date": "",
-            "title": "Drink from me and live forever",
+            "release_date": "1994-12-16",
+            "title": "Interview with the vampire",
             "categories": [
                 "Drama"
             ]
@@ -2296,7 +2296,7 @@
         },
         {
             "id": 275,
-            "release_date": "2018-11-02",
+            "release_date": "2016-02-20",
             "title": "Doukyuusei",
             "categories": [
                 "Anime"
@@ -3074,7 +3074,7 @@
         },
         {
             "id": 371,
-            "release_date": "",
+            "release_date": "1965-09-03",
             "title": "Flådens friske fyrer",
             "categories": [
                 "Dansk"
@@ -3202,7 +3202,7 @@
         },
         {
             "id": 387,
-            "release_date": "",
+            "release_date": "1968-11-23",
             "title": "Sonja fra saxogade",
             "categories": [
                 "Dansk"

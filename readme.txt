@@ -14,3 +14,7 @@ use the movie database api to get discriptions for movies and more
 url: https://www.themoviedb.org/
 
 for finding movie id's: https://developer.themoviedb.org/reference/search-movie
+
+We need to fix the JSON_creators so they don't fuck up the release dates on the movies
+
+for now just change the jsons: movie_details.json and movies.json
