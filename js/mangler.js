@@ -28,6 +28,7 @@ fetch('json/mangler.json').then(response => {
             // Create the image element
             const movieImg = document.createElement('img');
             movieImg.src = `missing_movies_and_series/${mangler.title}.webp`;
+            movieImg.loading = "lazy"
 
             // Pointer makes the html element look like it can be clicked
             movieImg.style.cursor = 'pointer';
