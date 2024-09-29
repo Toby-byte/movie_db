@@ -32,7 +32,9 @@
         {
             "id": 5,
             "title": "Breaking Bad",
-            "categories": []
+            "categories": [
+                "Drama"
+            ]
         },
         {
             "id": 6,
