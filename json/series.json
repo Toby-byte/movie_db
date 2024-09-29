@@ -2,44 +2,6 @@
     "series": [
         {
             "id": 1,
-            "title": "Cirkeline",
-            "categories": [
-                "Børn",
-                "Dansk"
-            ]
-        },
-        {
-            "id": 2,
-            "title": "Friends complete series",
-            "categories": [
-                "Komedie"
-            ]
-        },
-        {
-            "id": 3,
-            "title": "House complete series",
-            "categories": [
-                "Drama",
-                "Komedie"
-            ]
-        },
-        {
-            "id": 4,
-            "title": "Huset på Christianshavn",
-            "categories": [
-                "Dansk",
-                "Komedie"
-            ]
-        },
-        {
-            "id": 5,
-            "title": "Matador",
-            "categories": [
-                "Dansk"
-            ]
-        },
-        {
-            "id": 6,
             "title": "Absalons hemmelighed",
             "categories": [
                 "Børn",
@@ -47,192 +9,87 @@
             ]
         },
         {
-            "id": 7,
-            "title": "Pagten",
-            "categories": [
-                "Børn",
-                "Dansk"
-            ]
-        },
-        {
-            "id": 8,
-            "title": "Rita 1 sæson",
-            "categories": [
-                "Dansk",
-                "Drama"
-            ]
-        },
-        {
-            "id": 9,
-            "title": "Rita sidste sæson",
-            "categories": [
-                "Dansk",
-                "Drama"
-            ]
-        },
-        {
-            "id": 10,
+            "id": 2,
             "title": "Accel world",
             "categories": [
                 "Anime"
             ]
         },
         {
-            "id": 11,
-            "title": "Assassination classroom",
-            "categories": [
-                "Anime"
-            ]
-        },
-        {
-            "id": 12,
+            "id": 3,
             "title": "Ancient magus bride sæson 1",
             "categories": [
                 "Anime"
             ]
         },
         {
-            "id": 13,
+            "id": 4,
+            "title": "Assassination classroom",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Cirkeline",
+            "categories": [
+                "Børn",
+                "Dansk"
+            ]
+        },
+        {
+            "id": 6,
             "title": "Death note",
             "categories": [
                 "Anime"
             ]
         },
         {
-            "id": 14,
+            "id": 7,
             "title": "Emma A Victorian Romance",
             "categories": [
                 "Anime"
             ]
         },
         {
-            "id": 15,
+            "id": 8,
             "title": "Emma A Victorian Romance sæson 2",
             "categories": [
                 "Anime"
             ]
         },
         {
-            "id": 16,
-            "title": "Naruto complete series 1",
+            "id": 9,
+            "title": "Friends complete series",
             "categories": [
-                "Anime"
+                "Komedie"
             ]
         },
         {
-            "id": 17,
-            "title": "Naruto complete series 2",
-            "categories": [
-                "Anime"
-            ]
-        },
-        {
-            "id": 18,
-            "title": "Naruto complete series 3",
-            "categories": [
-                "Anime"
-            ]
-        },
-        {
-            "id": 19,
-            "title": "Naruto complete series 4",
-            "categories": [
-                "Anime"
-            ]
-        },
-        {
-            "id": 20,
-            "title": "Naruto complete series 5",
-            "categories": [
-                "Anime"
-            ]
-        },
-        {
-            "id": 21,
-            "title": "Naruto complete series 6",
-            "categories": [
-                "Anime"
-            ]
-        },
-        {
-            "id": 22,
-            "title": "Neon genesis Evangelion",
-            "categories": [
-                "Anime"
-            ]
-        },
-        {
-            "id": 23,
-            "title": "Noragami",
-            "categories": [
-                "Anime"
-            ]
-        },
-        {
-            "id": 24,
-            "title": "Noragami aragoto",
-            "categories": [
-                "Anime"
-            ]
-        },
-        {
-            "id": 25,
-            "title": "Nye Eventyr Med Lucky Luke dvd 1-8",
-            "categories": [
-                "Børn"
-            ]
-        },
-        {
-            "id": 26,
-            "title": "Nye Eventyr Med Lucky Luke dvd 9-15",
-            "categories": [
-                "Børn"
-            ]
-        },
-        {
-            "id": 27,
-            "title": "Spiderman And His Amazing Friends",
-            "categories": [
-                "Børn"
-            ]
-        },
-        {
-            "id": 28,
-            "title": "Tintin",
-            "categories": [
-                "Børn"
-            ]
-        },
-        {
-            "id": 29,
-            "title": "X-men Sæson 1 vol. 1",
-            "categories": [
-                "Børn"
-            ]
-        },
-        {
-            "id": 30,
-            "title": "Rita season 2 og 3",
-            "categories": [
-                "Dansk"
-            ]
-        },
-        {
-            "id": 31,
+            "id": 10,
             "title": "Hjørdis",
             "categories": [
                 "Dansk"
             ]
         },
         {
-            "id": 32,
-            "title": "Rejseholdet",
+            "id": 11,
+            "title": "House complete series",
             "categories": [
-                "Dansk"
+                "Drama",
+                "Komedie"
             ]
         },
         {
-            "id": 33,
+            "id": 12,
+            "title": "Huset på Christianshavn",
+            "categories": [
+                "Dansk",
+                "Komedie"
+            ]
+        },
+        {
+            "id": 13,
             "title": "Kiss him",
             "categories": [
                 "not me!",
@@ -240,24 +97,167 @@
             ]
         },
         {
-            "id": 34,
+            "id": 14,
+            "title": "Matador",
+            "categories": [
+                "Dansk"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Naruto complete series 1",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Naruto complete series 2",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Naruto complete series 3",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Naruto complete series 4",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Naruto complete series 5",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Naruto complete series 6",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Neon genesis Evangelion",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 22,
             "title": "Nichijou my ordinary life",
             "categories": [
                 "Anime"
             ]
         },
         {
-            "id": 35,
+            "id": 23,
+            "title": "Nissebanden i Grønland",
+            "categories": [
+                "Dansk"
+            ]
+        },
+        {
+            "id": 24,
             "title": "Nissernes ø",
             "categories": [
                 "Dansk"
             ]
         },
         {
-            "id": 36,
-            "title": "Nissebanden i Grønland",
+            "id": 25,
+            "title": "Noragami",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Noragami aragoto",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Nye Eventyr Med Lucky Luke dvd 1-8",
+            "categories": [
+                "Børn"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Nye Eventyr Med Lucky Luke dvd 9-15",
+            "categories": [
+                "Børn"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Pagten",
+            "categories": [
+                "Børn",
+                "Dansk"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Rejseholdet",
             "categories": [
                 "Dansk"
+            ]
+        },
+        {
+            "id": 31,
+            "title": "Rita 1 sæson",
+            "categories": [
+                "Dansk",
+                "Drama"
+            ]
+        },
+        {
+            "id": 32,
+            "title": "Rita season 2 og 3",
+            "categories": [
+                "Dansk"
+            ]
+        },
+        {
+            "id": 33,
+            "title": "Rita sidste sæson",
+            "categories": [
+                "Dansk",
+                "Drama"
+            ]
+        },
+        {
+            "id": 34,
+            "title": "Spiderman And His Amazing Friends",
+            "categories": [
+                "Børn"
+            ]
+        },
+        {
+            "id": 35,
+            "title": "Tintin",
+            "categories": [
+                "Børn"
+            ]
+        },
+        {
+            "id": 36,
+            "title": "X-men Sæson 1 vol. 1",
+            "categories": [
+                "Børn"
             ]
         }
     ]
