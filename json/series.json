@@ -209,6 +209,56 @@
             "categories": [
                 "Børn"
             ]
+        },
+        {
+            "id": 30,
+            "title": "Rita season 2 og 3",
+            "categories": [
+                "Dansk"
+            ]
+        },
+        {
+            "id": 31,
+            "title": "Hjørdis",
+            "categories": [
+                "Dansk"
+            ]
+        },
+        {
+            "id": 32,
+            "title": "Rejseholdet",
+            "categories": [
+                "Dansk"
+            ]
+        },
+        {
+            "id": 33,
+            "title": "Kiss him",
+            "categories": [
+                "not me!",
+                "Anime"
+            ]
+        },
+        {
+            "id": 34,
+            "title": "Nichijou my ordinary life",
+            "categories": [
+                "Anime"
+            ]
+        },
+        {
+            "id": 35,
+            "title": "Nissernes ø",
+            "categories": [
+                "Dansk"
+            ]
+        },
+        {
+            "id": 36,
+            "title": "Nissebanden i Grønland",
+            "categories": [
+                "Dansk"
+            ]
         }
     ]
 }
