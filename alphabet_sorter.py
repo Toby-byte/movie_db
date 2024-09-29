@@ -19,8 +19,8 @@ def sort_csv_alphabetically(input_file, output_file):
         writer.writerows(sorted_rows)
 
 # Example usage
-input_csv = 'csv\mangler.csv'
-output_csv = 'csv\Sorted_mangler.csv'
+input_csv = 'csv\series.csv'
+output_csv = 'csv\sorted_series.csv'
 sort_csv_alphabetically(input_csv, output_csv)
 
 print(f"Sorted CSV file has been saved as {output_csv}")
