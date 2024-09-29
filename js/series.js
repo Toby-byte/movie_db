@@ -67,6 +67,7 @@ function displaySeries(series) {
         // Create the image element
         const seriesImg = document.createElement('img');
         seriesImg.src = `series_pictures/${serie.title}.webp`;
+        seriesImg.loading = "lazy"
 
         // Pointer makes the html element look like it can be clicked
         seriesImg.style.cursor = 'pointer';

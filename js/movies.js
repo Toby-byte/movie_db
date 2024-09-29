@@ -75,6 +75,7 @@ function displayMovies(movies) {
         // Create the image element
         const movieImg = document.createElement('img');
         movieImg.src = `movie_pictures/${movie.title}.webp`;
+        movieImg.loading = "lazy"
 
         // Pointer makes the html element look like it can be clicked 
         movieImg.style.cursor = 'pointer';
